@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-06-21 08:44+0900\n"
+"POT-Creation-Date: 2023-06-22 22:44+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -17,18 +17,27 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. type: YAML Front Matter: author
-#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#: ../_posts/2023-04-10-3.4.11-released.md:1
+#: ../_posts/2023-04-11-3.4.12-released.md:1
+#: ../_posts/2023-05-10-3.4.13-released.md:1
+#: ../_posts/2023-06-12-3.4.14-released.md:1
 #, no-wrap
-msgid "André Arko"
+msgid "David Rodríguez"
 msgstr ""
 
 #. type: YAML Front Matter: author_email
-#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#: ../_posts/2023-04-10-3.4.11-released.md:1
+#: ../_posts/2023-04-11-3.4.12-released.md:1
+#: ../_posts/2023-05-10-3.4.13-released.md:1
+#: ../_posts/2023-06-12-3.4.14-released.md:1
 #, no-wrap
-msgid "andre@arko.net"
+msgid "deivid.rodriguez@riseup.net"
 msgstr ""
 
 #. type: YAML Front Matter: layout
+#: ../_posts/2023-03-27-3.4.10-released.md:1
 #: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
 #: ../_posts/2023-04-10-3.4.11-released.md:1
 #: ../_posts/2023-04-11-security-device-cli-support.md:1
@@ -40,6 +49,124 @@ msgstr ""
 #: ../_posts/2023-06-19-may-rubygems-updates.md:1
 #, no-wrap
 msgid "post"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#, no-wrap
+msgid "3.4.10 Released"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:9
+#, markdown-text
+msgid "RubyGems 3.4.10 includes enhancements."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:11
+#: ../_posts/2023-04-10-3.4.11-released.md:11
+#: ../_posts/2023-04-11-3.4.12-released.md:11
+#: ../_posts/2023-05-10-3.4.13-released.md:11
+#: ../_posts/2023-06-12-3.4.14-released.md:11
+#, markdown-text
+msgid "To update to the latest RubyGems you can run:"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:13
+#: ../_posts/2023-04-10-3.4.11-released.md:13
+#: ../_posts/2023-04-11-3.4.12-released.md:13
+#: ../_posts/2023-05-10-3.4.13-released.md:13
+#: ../_posts/2023-06-12-3.4.14-released.md:13
+#, markdown-text, no-wrap
+msgid "    gem update --system\n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:15
+#: ../_posts/2023-04-10-3.4.11-released.md:15
+#: ../_posts/2023-04-11-3.4.12-released.md:15
+#: ../_posts/2023-05-10-3.4.13-released.md:15
+#: ../_posts/2023-06-12-3.4.14-released.md:15
+#, markdown-text
+msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:18
+#: ../_posts/2023-04-10-3.4.11-released.md:18
+#: ../_posts/2023-04-11-3.4.12-released.md:18
+#: ../_posts/2023-05-10-3.4.13-released.md:18
+#: ../_posts/2023-06-12-3.4.14-released.md:18
+#, markdown-text
+msgid "_## Enhancements:_"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-27-3.4.10-released.md:20
+#, markdown-text
+msgid "Installs bundler 2.4.10 as a default gem."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:23
+#: ../_posts/2023-04-10-3.4.11-released.md:23
+#: ../_posts/2023-04-11-3.4.12-released.md:25
+#: ../_posts/2023-05-10-3.4.13-released.md:23
+#: ../_posts/2023-06-12-3.4.14-released.md:31
+#, markdown-text
+msgid "SHA256 Checksums:"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-27-3.4.10-released.md:24
+#, markdown-text
+msgid "rubygems-3.4.10.tgz"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:26
+#, markdown-text, no-wrap
+msgid ""
+"  55f1c67fa2ae96c9751b81afad5c0f2b3792c5b19cbba6d54d8df9fd821460d3\n"
+"* rubygems-3.4.10.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:28
+#, markdown-text, no-wrap
+msgid ""
+"  212aab78da1fc9fc6a7f43bf10584cf6c7e3704f1ecb9dc1bca012a399cb011c\n"
+"* rubygems-update-3.4.10.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:30
+#, markdown-text, no-wrap
+msgid "  a1a93ded10d23f4f5a57acd8614609e65658a7cf0c672b0597e4456f25371ad1\n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-03-27-3.4.10-released.md:33
+#: ../_posts/2023-04-10-3.4.11-released.md:33
+#: ../_posts/2023-04-11-3.4.12-released.md:35
+#: ../_posts/2023-05-10-3.4.13-released.md:33
+#: ../_posts/2023-06-12-3.4.14-released.md:41
+#, markdown-text
+msgid "[download]: https://rubygems.org/pages/download"
+msgstr ""
+
+#. type: YAML Front Matter: author
+#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
+#, no-wrap
+msgid "André Arko"
+msgstr ""
+
+#. type: YAML Front Matter: author_email
+#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
+#, no-wrap
+msgid "andre@arko.net"
 msgstr ""
 
 #. type: YAML Front Matter: title
@@ -321,24 +448,6 @@ msgid ""
 "maintainers of RubyGems."
 msgstr ""
 
-#. type: YAML Front Matter: author
-#: ../_posts/2023-04-10-3.4.11-released.md:1
-#: ../_posts/2023-04-11-3.4.12-released.md:1
-#: ../_posts/2023-05-10-3.4.13-released.md:1
-#: ../_posts/2023-06-12-3.4.14-released.md:1
-#, no-wrap
-msgid "David Rodríguez"
-msgstr ""
-
-#. type: YAML Front Matter: author_email
-#: ../_posts/2023-04-10-3.4.11-released.md:1
-#: ../_posts/2023-04-11-3.4.12-released.md:1
-#: ../_posts/2023-05-10-3.4.13-released.md:1
-#: ../_posts/2023-06-12-3.4.14-released.md:1
-#, no-wrap
-msgid "deivid.rodriguez@riseup.net"
-msgstr ""
-
 #. type: YAML Front Matter: title
 #: ../_posts/2023-04-10-3.4.11-released.md:1
 #, no-wrap
@@ -351,55 +460,10 @@ msgstr ""
 msgid "RubyGems 3.4.11 includes enhancements."
 msgstr ""
 
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:11
-#: ../_posts/2023-04-11-3.4.12-released.md:11
-#: ../_posts/2023-05-10-3.4.13-released.md:11
-#: ../_posts/2023-06-12-3.4.14-released.md:11
-#, markdown-text
-msgid "To update to the latest RubyGems you can run:"
-msgstr ""
-
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:13
-#: ../_posts/2023-04-11-3.4.12-released.md:13
-#: ../_posts/2023-05-10-3.4.13-released.md:13
-#: ../_posts/2023-06-12-3.4.14-released.md:13
-#, markdown-text, no-wrap
-msgid "    gem update --system\n"
-msgstr ""
-
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:15
-#: ../_posts/2023-04-11-3.4.12-released.md:15
-#: ../_posts/2023-05-10-3.4.13-released.md:15
-#: ../_posts/2023-06-12-3.4.14-released.md:15
-#, markdown-text
-msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
-msgstr ""
-
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:18
-#: ../_posts/2023-04-11-3.4.12-released.md:18
-#: ../_posts/2023-05-10-3.4.13-released.md:18
-#: ../_posts/2023-06-12-3.4.14-released.md:18
-#, markdown-text
-msgid "_## Enhancements:_"
-msgstr ""
-
 #. type: Bullet: '* '
 #: ../_posts/2023-04-10-3.4.11-released.md:20
 #, markdown-text
 msgid "Installs bundler 2.4.11 as a default gem."
-msgstr ""
-
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:23
-#: ../_posts/2023-04-11-3.4.12-released.md:25
-#: ../_posts/2023-05-10-3.4.13-released.md:23
-#: ../_posts/2023-06-12-3.4.14-released.md:31
-#, markdown-text
-msgid "SHA256 Checksums:"
 msgstr ""
 
 #. type: Bullet: '* '
@@ -428,15 +492,6 @@ msgstr ""
 #: ../_posts/2023-04-10-3.4.11-released.md:30
 #, markdown-text, no-wrap
 msgid "  7d9a7ff6f039a16a9ce89e22d0b73a76ada9948d33e8ecb401985e98a5aa7363\n"
-msgstr ""
-
-#. type: Plain text
-#: ../_posts/2023-04-10-3.4.11-released.md:33
-#: ../_posts/2023-04-11-3.4.12-released.md:35
-#: ../_posts/2023-05-10-3.4.13-released.md:33
-#: ../_posts/2023-06-12-3.4.14-released.md:41
-#, markdown-text
-msgid "[download]: https://rubygems.org/pages/download"
 msgstr ""
 
 #. type: YAML Front Matter: author
