@@ -5,14 +5,257 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RubyGems.org Blog\n"
-"POT-Creation-Date: 2023-06-22 22:54+0900\n"
-"PO-Revision-Date: 2023-06-22 23:26+0900\n"
+"POT-Creation-Date: 2023-06-22 23:27+0900\n"
+"PO-Revision-Date: 2023-07-06 23:10+0900\n"
 "Last-Translator: gemmaro <gemmaro.dev@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+#. type: YAML Front Matter: author
+#: ../_posts/2023-03-08-3.4.8-released.md:1
+#: ../_posts/2023-03-20-3.4.9-released.md:1
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#: ../_posts/2023-04-10-3.4.11-released.md:1
+#: ../_posts/2023-04-11-3.4.12-released.md:1
+#: ../_posts/2023-05-10-3.4.13-released.md:1
+#: ../_posts/2023-06-12-3.4.14-released.md:1
+#, no-wrap
+msgid "David Rodríguez"
+msgstr "David Rodríguez"
+
+#. type: YAML Front Matter: author_email
+#: ../_posts/2023-03-08-3.4.8-released.md:1
+#: ../_posts/2023-03-20-3.4.9-released.md:1
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#: ../_posts/2023-04-10-3.4.11-released.md:1
+#: ../_posts/2023-04-11-3.4.12-released.md:1
+#: ../_posts/2023-05-10-3.4.13-released.md:1
+#: ../_posts/2023-06-12-3.4.14-released.md:1
+#, no-wrap
+msgid "deivid.rodriguez@riseup.net"
+msgstr "deivid.rodriguez@riseup.net"
+
+#. type: YAML Front Matter: layout
+#: ../_posts/2023-03-08-3.4.8-released.md:1
+#: ../_posts/2023-03-11-february-rubygems-updates.md:1
+#: ../_posts/2023-03-20-3.4.9-released.md:1
+#: ../_posts/2023-03-27-3.4.10-released.md:1
+#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
+#: ../_posts/2023-04-10-3.4.11-released.md:1
+#: ../_posts/2023-04-11-security-device-cli-support.md:1
+#: ../_posts/2023-04-11-3.4.12-released.md:1
+#: ../_posts/2023-04-18-march-rubygems-updates.md:1
+#: ../_posts/2023-05-10-3.4.13-released.md:1
+#: ../_posts/2023-05-17-april-rubygems-updates.md:1
+#: ../_posts/2023-06-12-3.4.14-released.md:1
+#: ../_posts/2023-06-19-may-rubygems-updates.md:1
+#, no-wrap
+msgid "post"
+msgstr "post"
+
+#. type: YAML Front Matter: title
+#: ../_posts/2023-03-08-3.4.8-released.md:1
+#, no-wrap
+msgid "3.4.8 Released"
+msgstr "3.4.8がリリースされました"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:9
+msgid "RubyGems 3.4.8 includes enhancements, bug fixes and documentation."
+msgstr "RubyGems 3.4.8には改善と不具合の修正とドキュメントが含まれています。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:11
+#: ../_posts/2023-03-20-3.4.9-released.md:11
+#: ../_posts/2023-03-27-3.4.10-released.md:11
+#: ../_posts/2023-04-10-3.4.11-released.md:11
+#: ../_posts/2023-04-11-3.4.12-released.md:11
+#: ../_posts/2023-05-10-3.4.13-released.md:11
+#: ../_posts/2023-06-12-3.4.14-released.md:11
+msgid "To update to the latest RubyGems you can run:"
+msgstr "最新のRubyGemsに更新するには次を走らせてください。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:13
+#: ../_posts/2023-03-20-3.4.9-released.md:13
+#: ../_posts/2023-03-27-3.4.10-released.md:13
+#: ../_posts/2023-04-10-3.4.11-released.md:13
+#: ../_posts/2023-04-11-3.4.12-released.md:13
+#: ../_posts/2023-05-10-3.4.13-released.md:13
+#: ../_posts/2023-06-12-3.4.14-released.md:13
+#, no-wrap
+msgid "    gem update --system\n"
+msgstr "    gem update --system\n"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:15
+#: ../_posts/2023-03-20-3.4.9-released.md:15
+#: ../_posts/2023-03-27-3.4.10-released.md:15
+#: ../_posts/2023-04-10-3.4.11-released.md:15
+#: ../_posts/2023-04-11-3.4.12-released.md:15
+#: ../_posts/2023-05-10-3.4.13-released.md:15
+#: ../_posts/2023-06-12-3.4.14-released.md:15
+msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
+msgstr ""
+"手作業でRubyGemsをインストールするには[RubyGemsのダウンロード][download]ペー"
+"ジを参照してください。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:18
+#: ../_posts/2023-03-20-3.4.9-released.md:18
+#: ../_posts/2023-03-27-3.4.10-released.md:18
+#: ../_posts/2023-04-10-3.4.11-released.md:18
+#: ../_posts/2023-04-11-3.4.12-released.md:18
+#: ../_posts/2023-05-10-3.4.13-released.md:18
+#: ../_posts/2023-06-12-3.4.14-released.md:18
+msgid "_## Enhancements:_"
+msgstr "## 改善"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:31
+msgid ""
+"Add TarReader::Entry#seek to seek within the tar file entry. Pull request "
+"[#6390](https://github.com/rubygems/rubygems/pull/6390) by martinemde"
+msgstr ""
+"tarファイルの項目中を探索するTarReader::Entry#seekを追加しました。\n"
+"プルリクエストはmartinemdeによる[#6390](https://github.com/rubygems/rubygems/pull/6390)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:31
+msgid ""
+"Avoid calling String#dup in Gem::Version#marshal_dump. Pull request [#6438]"
+"(https://github.com/rubygems/rubygems/pull/6438) by segiddins"
+msgstr "Gem::Version#marshal_dumpでString#dupの呼び出しを回避するようにしました。プルリクエストはsegiddinsによる[#6438](https://github.com/rubygems/rubygems/pull/6438)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:31
+msgid ""
+"Remove hardcoded \"master\" branch references. Pull request [#6425](https://"
+"github.com/rubygems/rubygems/pull/6425) by deivid-rodriguez"
+msgstr ""
+"コードに直接書かれた \"master\" ブランチへの参照を除きました。\n"
+"プルリクエストはdeivid-rodriguezによる[#6425](https://github.com/rubygems/rubygems/pull/6425)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:31
+msgid ""
+"[Experimental] Add `gem exec` command to run executables from gems that may "
+"or may not be installed. Pull request [#6309](https://github.com/rubygems/"
+"rubygems/pull/6309) by segiddins"
+msgstr ""
+"[実験的] インストールされているいないに関わらずgemの実行ファイルを走らせるコマンド`gem exec`を追加しました。\n"
+"プルリクエストはsegiddinsによる[#6309](https://github.com/rubygems/rubygems/pull/6309)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:31
+msgid "Installs bundler 2.4.8 as a default gem."
+msgstr "bundler 2.4.8を既定のgemとしてインストールします。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:33
+#: ../_posts/2023-03-20-3.4.9-released.md:27
+msgid "_## Bug fixes:_"
+msgstr "## 不具合の修正"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:39
+msgid ""
+"Fix installation error of same version of default gems with local "
+"installation. Pull request [#6430](https://github.com/rubygems/rubygems/"
+"pull/6430) by hsbt"
+msgstr ""
+"ローカルインストールで同じバージョンの既定gemでのインストールエラーを修正しました。\n"
+"プルリクエストはhsbtによる[#6430](https://github.com/rubygems/rubygems/pull/6430)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:39
+msgid ""
+"Use proper memoized var name for Gem.state_home. Pull request [#6420]"
+"(https://github.com/rubygems/rubygems/pull/6420) by simi"
+msgstr ""
+"Gem.state_homeについて適切なメモ化変数名を使うようにしました。\n"
+"プルリクエストはsimiによる[#6420](https://github.com/rubygems/rubygems/pull/6420)です。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:41
+#: ../_posts/2023-03-20-3.4.9-released.md:35
+#: ../_posts/2023-06-12-3.4.14-released.md:24
+msgid "_## Documentation:_"
+msgstr "## ドキュメント"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:46
+msgid ""
+"Switch supporting explanations to all Ruby Central. Pull request [#6419]"
+"(https://github.com/rubygems/rubygems/pull/6419) by indirect"
+msgstr ""
+"全てのRuby Central向けのサポートの説明を切り替えました。\n"
+"プルリクエストはindirectによる[#6419](https://github.com/rubygems/rubygems/pull/6419)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:46
+msgid ""
+"Update the link to OpenSource.org. Pull request [#6392](https://github.com/"
+"rubygems/rubygems/pull/6392) by nobu"
+msgstr ""
+"OpenSource.orgへのリンクを更新しました。\n"
+"プルリクエストはnobuによる[#6392](https://github.com/rubygems/rubygems/pull/6392)です。"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:49
+#: ../_posts/2023-03-20-3.4.9-released.md:42
+#: ../_posts/2023-03-27-3.4.10-released.md:23
+#: ../_posts/2023-04-10-3.4.11-released.md:23
+#: ../_posts/2023-04-11-3.4.12-released.md:25
+#: ../_posts/2023-05-10-3.4.13-released.md:23
+#: ../_posts/2023-06-12-3.4.14-released.md:31
+msgid "SHA256 Checksums:"
+msgstr "SHA256チェックサムは以下の通りです。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-03-08-3.4.8-released.md:50
+msgid "rubygems-3.4.8.tgz"
+msgstr "rubygems-3.4.8.tgz"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:52
+#, no-wrap
+msgid ""
+"  d05943649349246564bc198a58d06a351693b68e9c8823ae4042babaae9da2d4\n"
+"* rubygems-3.4.8.zip  \n"
+msgstr ""
+"  d05943649349246564bc198a58d06a351693b68e9c8823ae4042babaae9da2d4\n"
+"* rubygems-3.4.8.zip  \n"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:54
+#, no-wrap
+msgid ""
+"  7974335862d93fad444d5791551836dd88dd4ae18bdd3362048c7e30a17998cc\n"
+"* rubygems-update-3.4.8.gem  \n"
+msgstr ""
+"  7974335862d93fad444d5791551836dd88dd4ae18bdd3362048c7e30a17998cc\n"
+"* rubygems-update-3.4.8.gem  \n"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:56
+#, no-wrap
+msgid "  08796d78b486ee9a01d18dfd3d7f02d42a694fb91160fe9e53ad6d8d8082e52d\n"
+msgstr "  08796d78b486ee9a01d18dfd3d7f02d42a694fb91160fe9e53ad6d8d8082e52d\n"
+
+#. type: Plain text
+#: ../_posts/2023-03-08-3.4.8-released.md:59
+#: ../_posts/2023-03-20-3.4.9-released.md:52
+#: ../_posts/2023-03-27-3.4.10-released.md:33
+#: ../_posts/2023-04-10-3.4.11-released.md:33
+#: ../_posts/2023-04-11-3.4.12-released.md:35
+#: ../_posts/2023-05-10-3.4.13-released.md:33
+#: ../_posts/2023-06-12-3.4.14-released.md:41
+msgid "[download]: https://rubygems.org/pages/download"
+msgstr "[download]: https://rubygems.org/pages/download"
 
 #. type: YAML Front Matter: author
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
@@ -32,23 +275,6 @@ msgstr "Gift Egwuenu"
 msgid "laurandidi21@gmail.com"
 msgstr "laurandidi21@gmail.com"
 
-#. type: YAML Front Matter: layout
-#: ../_posts/2023-03-11-february-rubygems-updates.md:1
-#: ../_posts/2023-03-20-3.4.9-released.md:1
-#: ../_posts/2023-03-27-3.4.10-released.md:1
-#: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
-#: ../_posts/2023-04-10-3.4.11-released.md:1
-#: ../_posts/2023-04-11-security-device-cli-support.md:1
-#: ../_posts/2023-04-11-3.4.12-released.md:1
-#: ../_posts/2023-04-18-march-rubygems-updates.md:1
-#: ../_posts/2023-05-10-3.4.13-released.md:1
-#: ../_posts/2023-05-17-april-rubygems-updates.md:1
-#: ../_posts/2023-06-12-3.4.14-released.md:1
-#: ../_posts/2023-06-19-may-rubygems-updates.md:1
-#, no-wrap
-msgid "post"
-msgstr "post"
-
 #. type: YAML Front Matter: title
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
 #, no-wrap
@@ -64,8 +290,10 @@ msgid ""
 "February."
 msgstr ""
 "RubyGemsの月次更新へようこそ。\n"
-"Ruby Centralでの私達が取り組んできたことの一部として、前月に完了した成果の振り返りを公開します。\n"
-"お読みいただければ、2月のRubyGemsとRubyGems.orgになされた更新にどんなものがあったかが分かります。"
+"Ruby Centralでの私達が取り組んできたことの一部として、前月に完了した成果の振"
+"り返りを公開します。\n"
+"お読みいただければ、2月のRubyGemsとRubyGems.orgになされた更新にどんなものが"
+"あったかが分かります。"
 
 #. type: Title ##
 #: ../_posts/2023-03-11-february-rubygems-updates.md:10
@@ -83,7 +311,11 @@ msgid ""
 "RubyGems [3.4.7](https://github.com/rubygems/rubygems/blob/master/CHANGELOG."
 "md#347--2023-02-15) and Bundler [2.4.7](https://github.com/rubygems/rubygems/"
 "blob/master/bundler/CHANGELOG.md#247-february-15-2023)."
-msgstr "今月の[RubyGems](https://github.com/rubygems/rubygems)ではRubyGems[3.4.7](https://github.com/rubygems/rubygems/blob/master/CHANGELOG.md#347--2023-02-15)とBundler [2.4.7](https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#247-february-15-2023)をリリースしました。"
+msgstr ""
+"今月の[RubyGems](https://github.com/rubygems/rubygems)ではRubyGems[3.4.7]"
+"(https://github.com/rubygems/rubygems/blob/master/CHANGELOG."
+"md#347--2023-02-15)とBundler [2.4.7](https://github.com/rubygems/rubygems/"
+"blob/master/bundler/CHANGELOG.md#247-february-15-2023)をリリースしました。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:15
@@ -102,21 +334,28 @@ msgid ""
 "added a `--gemfile` flag to the `bundle init` command to configure the "
 "gemfile name to be able to generate a custom name - [#6046](https://github."
 "com/rubygems/rubygems/pull/6046)."
-msgstr "gemfileの名前を構成して独自の名前で生成できるよう、`bundle init`に`--gemfile`フラグを追加しました - [#6046](https://github.com/rubygems/rubygems/pull/6046)。"
+msgstr ""
+"gemfileの名前を構成して独自の名前で生成できるよう、`bundle init`に`--gemfile`"
+"フラグを追加しました - [#6046](https://github.com/rubygems/rubygems/"
+"pull/6046)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:22
 msgid ""
 "added a warning on self-referencing gemspec dependencies - [#6335](https://"
 "github.com/rubygems/rubygems/pull/6335)."
-msgstr "自己言及的なgemspecの依存関係について警告を追加 - [#6335](https://github.com/rubygems/rubygems/pull/6335)。"
+msgstr ""
+"自己言及的なgemspecの依存関係について警告を追加 - [#6335](https://github.com/"
+"rubygems/rubygems/pull/6335)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:22
 msgid ""
 "fixed inconsistent behavior of zero-byte files in one of the archives - "
 "[#6329](https://github.com/rubygems/rubygems/pull/6329)."
-msgstr "アーカイブのうち1つにゼロバイトのファイルがあるときの一貫性のない挙動を修正 - [#6329](https://github.com/rubygems/rubygems/pull/6329)。"
+msgstr ""
+"アーカイブのうち1つにゼロバイトのファイルがあるときの一貫性のない挙動を修正 "
+"- [#6329](https://github.com/rubygems/rubygems/pull/6329)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:22
@@ -124,28 +363,37 @@ msgid ""
 "restored older (better) version of error message when locked ref does not "
 "exist, to improve clarity - [#6356](https://github.com/rubygems/rubygems/"
 "pull/6356)."
-msgstr "ロックされた参照が存在しない場合のエラー文言を、以前の（より良い）バージョンに戻し、明快さを向上させました - [#6356](https://github.com/rubygems/rubygems/pull/6356)。"
+msgstr ""
+"ロックされた参照が存在しない場合のエラー文言を、以前の（より良い）バージョン"
+"に戻し、明快さを向上させました - [#6356](https://github.com/rubygems/"
+"rubygems/pull/6356)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:22
 msgid ""
 "fixed gem crashing when installing from a corrupted lockfile - [#6355]"
 "(https://github.com/rubygems/rubygems/pull/6355)."
-msgstr "壊れたlockfileからインストールするときにgemが壊れるのを修正 - [#6355](https://github.com/rubygems/rubygems/pull/6355)。"
+msgstr ""
+"壊れたlockfileからインストールするときにgemが壊れるのを修正 - [#6355]"
+"(https://github.com/rubygems/rubygems/pull/6355)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:22
 msgid ""
 "fixed crash in PubGrub involving empty ranges - [#6365](https://github.com/"
 "rubygems/rubygems/pull/6365)."
-msgstr "PubGrubに関係する空の範囲でのクラッシュを修正 - [#6365](https://github.com/rubygems/rubygems/pull/6365)。"
+msgstr ""
+"PubGrubに関係する空の範囲でのクラッシュを修正 - [#6365](https://github.com/"
+"rubygems/rubygems/pull/6365)。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:24
 msgid ""
 "Other improvements we worked on during this month that weren't included in "
 "the February release are:"
-msgstr "今月の間に取り組んだものの2月のリリースには含まれていない、その他の向上は以下です。"
+msgstr ""
+"今月の間に取り組んだものの2月のリリースには含まれていない、その他の向上は以下"
+"です。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:29
@@ -153,21 +401,28 @@ msgid ""
 "adding an experimental feature for the `gem exec` command to run executables "
 "from gems that may or may not be installed - [#6309](https://github.com/"
 "rubygems/rubygems/pull/6309)."
-msgstr "インストールされている、もしくはされていないgemに由来する実行プログラムを走らせるコマンド`gem exec`の実験的な機能を追加 - [#6309](https://github.com/rubygems/rubygems/pull/6309)。"
+msgstr ""
+"インストールされている、もしくはされていないgemに由来する実行プログラムを走ら"
+"せるコマンド`gem exec`の実験的な機能を追加 - [#6309](https://github.com/"
+"rubygems/rubygems/pull/6309)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:29
 msgid ""
 "implementing safe load for all marshaled data - [#6384](https://github.com/"
 "rubygems/rubygems/pull/6384)."
-msgstr "全てのマーシャルされたデータの安全な読み込みを実装 - [#6384](https://github.com/rubygems/rubygems/pull/6384)。"
+msgstr ""
+"全てのマーシャルされたデータの安全な読み込みを実装 - [#6384](https://github."
+"com/rubygems/rubygems/pull/6384)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:29
 msgid ""
 "making the gemspec file generated by bundle gem properly exclude itself from "
 "packaged gem - [#6339](https://github.com/rubygems/rubygems/pull/6339)."
-msgstr "bundle gemにより生成されたgemspecファイルがパッケージ化したgemから自身を適切に除外 - [#6339](https://github.com/rubygems/rubygems/pull/6339)。"
+msgstr ""
+"bundle gemにより生成されたgemspecファイルがパッケージ化したgemから自身を適切"
+"に除外 - [#6339](https://github.com/rubygems/rubygems/pull/6339)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:29
@@ -175,7 +430,10 @@ msgid ""
 "preserving `bundler-setup-relative` paths if the `:path` option is set to "
 "relative in standalone setup - [#6327](https://github.com/rubygems/rubygems/"
 "pull/6327)."
-msgstr "`:path`オプションが相対的ないし独立したセットアップをされている場合に`bundler-setup-relative`のパスを保持 - [#6327](https://github.com/rubygems/rubygems/pull/6327)。"
+msgstr ""
+"`:path`オプションが相対的ないし独立したセットアップをされている場合に"
+"`bundler-setup-relative`のパスを保持 - [#6327](https://github.com/rubygems/"
+"rubygems/pull/6327)。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:31
@@ -185,7 +443,9 @@ msgid ""
 "contributed by 16 authors. There were 1,744 additions and 217 deletions "
 "across 100 files."
 msgstr ""
-"2月はRubyGemsに[108個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-02-01%7D...master@%7B2023-02-28%7D)が16人の著者からありました。\n"
+"2月はRubyGemsに[108個の新しいコミット](https://github.com/rubygems/rubygems/"
+"compare/master@%7B2023-02-01%7D...master@%7B2023-02-28%7D)が16人の著者からあ"
+"りました。\n"
 "100ファイルに亙って1,744行の追加と217行の削除がありました。"
 
 #. type: Title ##
@@ -205,14 +465,17 @@ msgid ""
 "users' MFA, blocking a user, and deleting webhooks."
 msgstr ""
 "湖月は管理者ダッシュボードのバックエンドに著しい前進がありました。\n"
-"全ての変更への眼瞼な監査、利用者のMFAをリセットする対応の追加、ユーザーのブロック、webフックの削除を実装しました。"
+"全ての変更への眼瞼な監査、利用者のMFAをリセットする対応の追加、ユーザーのブ"
+"ロック、webフックの削除を実装しました。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:37
 msgid ""
 "![admin dashboard](https://res.cloudinary.com/lauragift/image/upload/w_650,"
 "h_400/v1678818813/image_el5xjy.png)"
-msgstr "![管理者画面](https://res.cloudinary.com/lauragift/image/upload/w_650,h_400/v1678818813/image_el5xjy.png)"
+msgstr ""
+"![管理者画面](https://res.cloudinary.com/lauragift/image/upload/w_650,h_400/"
+"v1678818813/image_el5xjy.png)"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:39
@@ -223,64 +486,83 @@ msgid ""
 "RDS instances to be managed by Terraform and tested the migration of managed "
 "node groups on the rubygems.org EKS cluster."
 msgstr ""
-"依存関係APIの非推奨を[発表](https://blog.rubygems.org/2023/02/22/dependency-api-deprecation.html)し、消灯日を設けてエンドポイントを完全に削除する計画を立てました。\n"
-"また全てのRDSインスタンスをTerraformによって管理するように移行し、rubygems.orgのEKSクラスターでノードグループの管理の移行を試験しました。"
+"依存関係APIの非推奨を[発表](https://blog.rubygems.org/2023/02/22/dependency-"
+"api-deprecation.html)し、消灯日を設けてエンドポイントを完全に削除する計画を立"
+"てました。\n"
+"また全てのRDSインスタンスをTerraformによって管理するように移行し、rubygems."
+"orgのEKSクラスターでノードグループの管理の移行を試験しました。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:41
 msgid ""
 "In addition to these updates, RubyGems.org saw several bug fixes and "
 "updates, some of which include:"
-msgstr "これらの更新に加えて、RubyGems.orgには不具合の修正と更新がいくつかあり、以下が含まれています。"
+msgstr ""
+"これらの更新に加えて、RubyGems.orgには不具合の修正と更新がいくつかあり、以下"
+"が含まれています。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "the addition of telemetry to capture MFA login durations - [#3376](https://"
 "github.com/rubygems/rubygems.org/pull/3376)."
-msgstr "MFAのログイン間隔に遠隔測定を追加 - [#3376](https://github.com/rubygems/rubygems.org/pull/3376)。"
+msgstr ""
+"MFAのログイン間隔に遠隔測定を追加 - [#3376](https://github.com/rubygems/"
+"rubygems.org/pull/3376)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "the integration of DataDog for application performance monitoring - [#3461]"
 "(https://github.com/rubygems/rubygems.org/pull/3461)."
-msgstr "アプリケーションの効率性の監視のためのDataDogの統合 - [#3461](https://github.com/rubygems/rubygems.org/pull/3461)。"
+msgstr ""
+"アプリケーションの効率性の監視のためのDataDogの統合 - [#3461](https://github."
+"com/rubygems/rubygems.org/pull/3461)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "the set up of GitHub OAuth to protect the new /admin namespace - [#3388]"
 "(https://github.com/rubygems/rubygems.org/pull/3388)."
-msgstr "新しい/admin名前空間を保護するためのGitHub OAuthのセットアップ - [#3388](https://github.com/rubygems/rubygems.org/pull/3388)。"
+msgstr ""
+"新しい/admin名前空間を保護するためのGitHub OAuthのセットアップ - [#3388]"
+"(https://github.com/rubygems/rubygems.org/pull/3388)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "an updated Rails test job name for stability across version updates - [#3420]"
 "(https://github.com/rubygems/rubygems.org/pull/3420)."
-msgstr "バージョン更新の前後で安定的であるよう、Railsのテストジョブ名を更新 - [#3420](https://github.com/rubygems/rubygems.org/pull/3420)。"
+msgstr ""
+"バージョン更新の前後で安定的であるよう、Railsのテストジョブ名を更新 - [#3420]"
+"(https://github.com/rubygems/rubygems.org/pull/3420)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "fixed test avo warnings (via removal of redundant rake tasks loading) - "
 "[#3422](https://github.com/rubygems/rubygems.org/pull/3422)."
-msgstr "avoのテストの警告を修正（冗長なrakeタスクの読み込みの削除による） - [#3422](https://github.com/rubygems/rubygems.org/pull/3422)。"
+msgstr ""
+"avoのテストの警告を修正（冗長なrakeタスクの読み込みの削除による） - [#3422]"
+"(https://github.com/rubygems/rubygems.org/pull/3422)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "an added avo MFA reset admin action & view of audit entries - [#3426]"
 "(https://github.com/rubygems/rubygems.org/pull/3426)."
-msgstr "avoのMFAをリセットする管理者操作と監査項目の表示を追加 - [#3426](https://github.com/rubygems/rubygems.org/pull/3426)。"
+msgstr ""
+"avoのMFAをリセットする管理者操作と監査項目の表示を追加 - [#3426](https://"
+"github.com/rubygems/rubygems.org/pull/3426)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
 msgid ""
 "a fixed ERD CI (via an updated `erd.dot`) - [#3490](https://github.com/"
 "rubygems/rubygems.org/pull/3490)."
-msgstr "ERD CIを修正（更新された`erd.dot`による） - [#3490](https://github.com/rubygems/rubygems.org/pull/3490)。"
+msgstr ""
+"ERD CIを修正（更新された`erd.dot`による） - [#3490](https://github.com/"
+"rubygems/rubygems.org/pull/3490)。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:51
@@ -292,7 +574,9 @@ msgstr "更新されたTerraformパッケージは`0.13.7 -> 1.3.9`です。"
 msgid ""
 "updated Terraform providers packages: AWS `2.51 -> 4.54`, external `1.2 -> "
 "2.2`, Kubernetes `1.8 -> 2.18`,template `2.1 -> 2.3`."
-msgstr "更新されたTerraformのプロバイダパッケージはAWS `2.51 -> 4.54`、external `1.2 -> 2.2`、Kubernetes `1.8 -> 2.18`、template `2.1 -> 2.3`です。"
+msgstr ""
+"更新されたTerraformのプロバイダパッケージはAWS `2.51 -> 4.54`、external `1.2 "
+"-> 2.2`、Kubernetes `1.8 -> 2.18`、template `2.1 -> 2.3`です。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:53
@@ -301,7 +585,11 @@ msgid ""
 "rubygems/rubygems.org/compare/master@%7B2023-02-01%7D..."
 "master@%7B2023-02-28%7D), contributed by 17 authors. There were 7,602 "
 "additions and 1,071 deletions across 273 files."
-msgstr "2月では、RubyGems.orgには[209個の新規コミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-02-01%7D...master@%7B2023-02-28%7D)が17人の著者からありました。273ファイルに亙って7,602行の追加と1,071行の削除がありました。"
+msgstr ""
+"2月では、RubyGems.orgには[209個の新規コミット](https://github.com/rubygems/"
+"rubygems.org/compare/master@%7B2023-02-01%7D...master@%7B2023-02-28%7D)が17人"
+"の著者からありました。273ファイルに亙って7,602行の追加と1,071行の削除がありま"
+"した。"
 
 #. type: Title ##
 #: ../_posts/2023-03-11-february-rubygems-updates.md:54
@@ -314,7 +602,9 @@ msgstr "Rubyのエコシステムのお知らせ"
 msgid ""
 "Here we outline additional exciting updates made to other projects in the "
 "Ruby Ecosystem."
-msgstr "以下にRubyのエコシステムで他のプロジェクトにあった追加のわくわくする更新を大まかに紹介します。"
+msgstr ""
+"以下にRubyのエコシステムで他のプロジェクトにあった追加のわくわくする更新を大"
+"まかに紹介します。"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:59
@@ -328,14 +618,18 @@ msgid ""
 "we updated `ruby-ssl-check` to print a warning if you're using an "
 "unmaintained version of Ruby - [#14](https://github.com/rubygems/ruby-ssl-"
 "check/pull/14)."
-msgstr "`ruby-ssl-check`を更新し管理されていないバージョンのRubyを使っている場合に警告を印字 [#14](https://github.com/rubygems/ruby-ssl-check/pull/14)"
+msgstr ""
+"`ruby-ssl-check`を更新し管理されていないバージョンのRubyを使っている場合に警"
+"告を印字 [#14](https://github.com/rubygems/ruby-ssl-check/pull/14)"
 
 #. type: Plain text
 #: ../_posts/2023-03-11-february-rubygems-updates.md:63
 msgid ""
 "As always, we continue to fix bugs, review and merge PRs and reply to "
 "support tickets."
-msgstr "引き続き不具合の修正、PRのレビューとマージ、サポートチケットへの返信を続けていきます。"
+msgstr ""
+"引き続き不具合の修正、PRのレビューとマージ、サポートチケットへの返信を続けて"
+"いきます。"
 
 #. type: Title ##
 #: ../_posts/2023-03-11-february-rubygems-updates.md:64
@@ -431,7 +725,8 @@ msgstr "[@sambostock](https://github.com/sambostock) Sam Bostock"
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
 msgid ""
 "[@composerinteralia](https://github.com/composerinteralia) Daniel Colson"
-msgstr "[@composerinteralia](https://github.com/composerinteralia) Daniel Colson"
+msgstr ""
+"[@composerinteralia](https://github.com/composerinteralia) Daniel Colson"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
@@ -561,28 +856,6 @@ msgstr ""
 "私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュ"
 "メントの執筆と更新、バグの選定が含まれます。"
 
-#. type: YAML Front Matter: author
-#: ../_posts/2023-03-20-3.4.9-released.md:1
-#: ../_posts/2023-03-27-3.4.10-released.md:1
-#: ../_posts/2023-04-10-3.4.11-released.md:1
-#: ../_posts/2023-04-11-3.4.12-released.md:1
-#: ../_posts/2023-05-10-3.4.13-released.md:1
-#: ../_posts/2023-06-12-3.4.14-released.md:1
-#, no-wrap
-msgid "David Rodríguez"
-msgstr "David Rodríguez"
-
-#. type: YAML Front Matter: author_email
-#: ../_posts/2023-03-20-3.4.9-released.md:1
-#: ../_posts/2023-03-27-3.4.10-released.md:1
-#: ../_posts/2023-04-10-3.4.11-released.md:1
-#: ../_posts/2023-04-11-3.4.12-released.md:1
-#: ../_posts/2023-05-10-3.4.13-released.md:1
-#: ../_posts/2023-06-12-3.4.14-released.md:1
-#, no-wrap
-msgid "deivid.rodriguez@riseup.net"
-msgstr "deivid.rodriguez@riseup.net"
-
 #. type: YAML Front Matter: title
 #: ../_posts/2023-03-20-3.4.9-released.md:1
 #, no-wrap
@@ -593,49 +866,6 @@ msgstr "3.4.9がリリースされました"
 #: ../_posts/2023-03-20-3.4.9-released.md:9
 msgid "RubyGems 3.4.9 includes enhancements, bug fixes and documentation."
 msgstr "RubyGems 3.4.9には改善と不具合の修正とドキュメントが含まれています。"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:11
-#: ../_posts/2023-03-27-3.4.10-released.md:11
-#: ../_posts/2023-04-10-3.4.11-released.md:11
-#: ../_posts/2023-04-11-3.4.12-released.md:11
-#: ../_posts/2023-05-10-3.4.13-released.md:11
-#: ../_posts/2023-06-12-3.4.14-released.md:11
-msgid "To update to the latest RubyGems you can run:"
-msgstr "最新のRubyGemsに更新するには次を走らせてください。"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:13
-#: ../_posts/2023-03-27-3.4.10-released.md:13
-#: ../_posts/2023-04-10-3.4.11-released.md:13
-#: ../_posts/2023-04-11-3.4.12-released.md:13
-#: ../_posts/2023-05-10-3.4.13-released.md:13
-#: ../_posts/2023-06-12-3.4.14-released.md:13
-#, no-wrap
-msgid "    gem update --system\n"
-msgstr "    gem update --system\n"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:15
-#: ../_posts/2023-03-27-3.4.10-released.md:15
-#: ../_posts/2023-04-10-3.4.11-released.md:15
-#: ../_posts/2023-04-11-3.4.12-released.md:15
-#: ../_posts/2023-05-10-3.4.13-released.md:15
-#: ../_posts/2023-06-12-3.4.14-released.md:15
-msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
-msgstr ""
-"手作業でRubyGemsをインストールするには[RubyGemsのダウンロード][download]ペー"
-"ジを参照してください。"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:18
-#: ../_posts/2023-03-27-3.4.10-released.md:18
-#: ../_posts/2023-04-10-3.4.11-released.md:18
-#: ../_posts/2023-04-11-3.4.12-released.md:18
-#: ../_posts/2023-05-10-3.4.13-released.md:18
-#: ../_posts/2023-06-12-3.4.14-released.md:18
-msgid "_## Enhancements:_"
-msgstr "## 改善"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-03-20-3.4.9-released.md:25
@@ -662,11 +892,6 @@ msgstr ""
 msgid "Installs bundler 2.4.9 as a default gem."
 msgstr "bundler 2.4.9を既定のgemとしてインストールします。"
 
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:27
-msgid "_## Bug fixes:_"
-msgstr "## 不具合の修正"
-
 #. type: Bullet: '* '
 #: ../_posts/2023-03-20-3.4.9-released.md:33
 msgid ""
@@ -687,12 +912,6 @@ msgstr ""
 "プルリクエストはdeivid-rodriguezによる[#6481](https://github.com/rubygems/"
 "rubygems/pull/6481)です。"
 
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:35
-#: ../_posts/2023-06-12-3.4.14-released.md:24
-msgid "_## Documentation:_"
-msgstr "## ドキュメント"
-
 #. type: Bullet: '* '
 #: ../_posts/2023-03-20-3.4.9-released.md:39
 msgid ""
@@ -702,16 +921,6 @@ msgstr ""
 "現在のリリースの原則をドキュメント化しました。\n"
 "プルリクエストはdeivid-rodríguezによる[#6450](https://github.com/rubygems/"
 "rubygems/pull/6450)です。"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:42
-#: ../_posts/2023-03-27-3.4.10-released.md:23
-#: ../_posts/2023-04-10-3.4.11-released.md:23
-#: ../_posts/2023-04-11-3.4.12-released.md:25
-#: ../_posts/2023-05-10-3.4.13-released.md:23
-#: ../_posts/2023-06-12-3.4.14-released.md:31
-msgid "SHA256 Checksums:"
-msgstr "SHA256チェックサムは以下の通りです。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-03-20-3.4.9-released.md:43
@@ -743,16 +952,6 @@ msgstr ""
 #, no-wrap
 msgid "  7c78efe1cc1cf23670957130a59d0b71f19cc409497e8f9e07b3ae1d05526901\n"
 msgstr "  7c78efe1cc1cf23670957130a59d0b71f19cc409497e8f9e07b3ae1d05526901\n"
-
-#. type: Plain text
-#: ../_posts/2023-03-20-3.4.9-released.md:52
-#: ../_posts/2023-03-27-3.4.10-released.md:33
-#: ../_posts/2023-04-10-3.4.11-released.md:33
-#: ../_posts/2023-04-11-3.4.12-released.md:35
-#: ../_posts/2023-05-10-3.4.13-released.md:33
-#: ../_posts/2023-06-12-3.4.14-released.md:41
-msgid "[download]: https://rubygems.org/pages/download"
-msgstr "[download]: https://rubygems.org/pages/download"
 
 #. type: YAML Front Matter: title
 #: ../_posts/2023-03-27-3.4.10-released.md:1
