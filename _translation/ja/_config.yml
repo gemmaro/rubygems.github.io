@@ -2,3 +2,4 @@ theme: minima
 plugins:
   - jekyll-feed
 markdown: kramdown
+url: https://gemmaro.github.io
