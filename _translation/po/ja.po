@@ -5,7 +5,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RubyGems.org Blog\n"
-"POT-Creation-Date: 2023-07-06 23:12+0900\n"
+"POT-Creation-Date: 2023-07-15 09:51+0900\n"
 "PO-Revision-Date: 2023-07-06 23:14+0900\n"
 "Last-Translator: gemmaro <gemmaro.dev@gmail.com>\n"
 "Language-Team: none\n"
@@ -23,6 +23,8 @@ msgstr ""
 #: ../_posts/2023-05-10-3.4.13-released.md:1
 #: ../_posts/2023-06-12-3.4.14-released.md:1
 #: ../_posts/2023-06-29-3.4.15-released.md:1
+#: ../_posts/2023-07-10-3.4.16-released.md:1
+#: ../_posts/2023-07-14-3.4.17-released.md:1
 #, no-wrap
 msgid "David Rodríguez"
 msgstr "David Rodríguez"
@@ -36,6 +38,8 @@ msgstr "David Rodríguez"
 #: ../_posts/2023-05-10-3.4.13-released.md:1
 #: ../_posts/2023-06-12-3.4.14-released.md:1
 #: ../_posts/2023-06-29-3.4.15-released.md:1
+#: ../_posts/2023-07-10-3.4.16-released.md:1
+#: ../_posts/2023-07-14-3.4.17-released.md:1
 #, no-wrap
 msgid "deivid.rodriguez@riseup.net"
 msgstr "deivid.rodriguez@riseup.net"
@@ -55,6 +59,8 @@ msgstr "deivid.rodriguez@riseup.net"
 #: ../_posts/2023-06-12-3.4.14-released.md:1
 #: ../_posts/2023-06-19-may-rubygems-updates.md:1
 #: ../_posts/2023-06-29-3.4.15-released.md:1
+#: ../_posts/2023-07-10-3.4.16-released.md:1
+#: ../_posts/2023-07-14-3.4.17-released.md:1
 #, no-wrap
 msgid "post"
 msgstr "post"
@@ -79,6 +85,8 @@ msgstr "RubyGems 3.4.8には改善と不具合の修正とドキュメントが�
 #: ../_posts/2023-05-10-3.4.13-released.md:11
 #: ../_posts/2023-06-12-3.4.14-released.md:11
 #: ../_posts/2023-06-29-3.4.15-released.md:11
+#: ../_posts/2023-07-10-3.4.16-released.md:11
+#: ../_posts/2023-07-14-3.4.17-released.md:11
 msgid "To update to the latest RubyGems you can run:"
 msgstr "最新のRubyGemsに更新するには次を走らせてください。"
 
@@ -91,6 +99,8 @@ msgstr "最新のRubyGemsに更新するには次を走らせてください。"
 #: ../_posts/2023-05-10-3.4.13-released.md:13
 #: ../_posts/2023-06-12-3.4.14-released.md:13
 #: ../_posts/2023-06-29-3.4.15-released.md:13
+#: ../_posts/2023-07-10-3.4.16-released.md:13
+#: ../_posts/2023-07-14-3.4.17-released.md:13
 #, no-wrap
 msgid "    gem update --system\n"
 msgstr "    gem update --system\n"
@@ -104,6 +114,8 @@ msgstr "    gem update --system\n"
 #: ../_posts/2023-05-10-3.4.13-released.md:15
 #: ../_posts/2023-06-12-3.4.14-released.md:15
 #: ../_posts/2023-06-29-3.4.15-released.md:15
+#: ../_posts/2023-07-10-3.4.16-released.md:15
+#: ../_posts/2023-07-14-3.4.17-released.md:15
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
 "手作業でRubyGemsをインストールするには[RubyGemsのダウンロード][download]ペー"
@@ -118,6 +130,8 @@ msgstr ""
 #: ../_posts/2023-05-10-3.4.13-released.md:18
 #: ../_posts/2023-06-12-3.4.14-released.md:18
 #: ../_posts/2023-06-29-3.4.15-released.md:18
+#: ../_posts/2023-07-10-3.4.16-released.md:18
+#: ../_posts/2023-07-14-3.4.17-released.md:18
 msgid "_## Enhancements:_"
 msgstr "## 改善"
 
@@ -234,6 +248,8 @@ msgstr ""
 #: ../_posts/2023-05-10-3.4.13-released.md:23
 #: ../_posts/2023-06-12-3.4.14-released.md:31
 #: ../_posts/2023-06-29-3.4.15-released.md:33
+#: ../_posts/2023-07-10-3.4.16-released.md:23
+#: ../_posts/2023-07-14-3.4.17-released.md:29
 msgid "SHA256 Checksums:"
 msgstr "SHA256チェックサムは以下の通りです。"
 
@@ -277,6 +293,8 @@ msgstr "  08796d78b486ee9a01d18dfd3d7f02d42a694fb91160fe9e53ad6d8d8082e52d\n"
 #: ../_posts/2023-05-10-3.4.13-released.md:33
 #: ../_posts/2023-06-12-3.4.14-released.md:41
 #: ../_posts/2023-06-29-3.4.15-released.md:43
+#: ../_posts/2023-07-10-3.4.16-released.md:33
+#: ../_posts/2023-07-14-3.4.17-released.md:39
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr "[download]: https://rubygems.org/pages/download"
 
@@ -2573,7 +2591,8 @@ msgid ""
 "com/rubygems/rubygems/pull/6734) by ioquatix"
 msgstr ""
 "必要な場合にshellwordsを自動読み込みします。\n"
-"プルリクエストはioquatixによる[#6734](https://github.com/rubygems/rubygems/pull/6734)です。"
+"プルリクエストはioquatixによる[#6734](https://github.com/rubygems/rubygems/"
+"pull/6734)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-06-29-3.4.15-released.md:30
@@ -2582,7 +2601,8 @@ msgid ""
 "(https://github.com/rubygems/rubygems/pull/6761) by jenshenny"
 msgstr ""
 "ローカルのgemコマンドの変更を試すためのコマンドを更新しました。\n"
-"プルリクエストはjenshennyによる[#6761](https://github.com/rubygems/rubygems/pull/6761)です。"
+"プルリクエストはjenshennyによる[#6761](https://github.com/rubygems/rubygems/"
+"pull/6761)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-06-29-3.4.15-released.md:34
@@ -2614,3 +2634,122 @@ msgstr ""
 #, no-wrap
 msgid "  bf44173e671662764617fba794ae4d850436f9865aa950d28e55998a538c5144\n"
 msgstr "  bf44173e671662764617fba794ae4d850436f9865aa950d28e55998a538c5144\n"
+
+#. type: YAML Front Matter: title
+#: ../_posts/2023-07-10-3.4.16-released.md:1
+#, fuzzy, no-wrap
+#| msgid "3.4.10 Released"
+msgid "3.4.16 Released"
+msgstr "3.4.10がリリースされました"
+
+#. type: Plain text
+#: ../_posts/2023-07-10-3.4.16-released.md:9
+#, fuzzy
+#| msgid "RubyGems 3.4.10 includes enhancements."
+msgid "RubyGems 3.4.16 includes enhancements."
+msgstr "RubyGems 3.4.10には数々の改善が含まれています。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-07-10-3.4.16-released.md:20
+#, fuzzy
+#| msgid "Installs bundler 2.4.10 as a default gem."
+msgid "Installs bundler 2.4.16 as a default gem."
+msgstr "bundler 2.4.10を既定のgemとしてインストールします。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-07-10-3.4.16-released.md:24
+#, fuzzy
+#| msgid "rubygems-3.4.10.tgz"
+msgid "rubygems-3.4.16.tgz"
+msgstr "rubygems-3.4.10.tgz"
+
+#. type: Plain text
+#: ../_posts/2023-07-10-3.4.16-released.md:26
+#, no-wrap
+msgid ""
+"  4f9f300cb30e08f3f0a0fb97759be95de17bc84457bd6d653f156a7bccc5b3a3\n"
+"* rubygems-3.4.16.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-07-10-3.4.16-released.md:28
+#, no-wrap
+msgid ""
+"  6ba5c0dda96c152a2a78df80e8853449463ad25774038cf4a07d37b4bd047ad8\n"
+"* rubygems-update-3.4.16.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-07-10-3.4.16-released.md:30
+#, no-wrap
+msgid "  bbb280fdb45831662845160e84856948396e86e271f151bc00e32d485aae5288\n"
+msgstr ""
+
+#. type: YAML Front Matter: title
+#: ../_posts/2023-07-14-3.4.17-released.md:1
+#, fuzzy, no-wrap
+#| msgid "3.4.10 Released"
+msgid "3.4.17 Released"
+msgstr "3.4.10がリリースされました"
+
+#. type: Plain text
+#: ../_posts/2023-07-14-3.4.17-released.md:9
+#, fuzzy
+#| msgid "RubyGems 3.4.14 includes enhancements and documentation."
+msgid "RubyGems 3.4.17 includes enhancements and performance."
+msgstr "RubyGems 3.4.14には改善とドキュメントが含まれています。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-07-14-3.4.17-released.md:20
+#, fuzzy
+#| msgid "Installs bundler 2.4.10 as a default gem."
+msgid "Installs bundler 2.4.17 as a default gem."
+msgstr "bundler 2.4.10を既定のgemとしてインストールします。"
+
+#. type: Plain text
+#: ../_posts/2023-07-14-3.4.17-released.md:22
+msgid "_## Performance:_"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-07-14-3.4.17-released.md:26
+#, fuzzy
+#| msgid ""
+#| "Fix `gem uninstall` with `--install-dir`. Pull request [#6481](https://"
+#| "github.com/rubygems/rubygems/pull/6481) by deivid-rodriguez"
+msgid ""
+"Avoid unnecessary work for private local gem installation. Pull request "
+"[#6810](https://github.com/rubygems/rubygems/pull/6810) by deivid-rodriguez"
+msgstr ""
+"`gem uninstall`の`--install-dir`を修正しました。\n"
+"プルリクエストはdeivid-rodriguezによる[#6481](https://github.com/rubygems/"
+"rubygems/pull/6481)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-07-14-3.4.17-released.md:30
+#, fuzzy
+#| msgid "rubygems-3.4.10.tgz"
+msgid "rubygems-3.4.17.tgz"
+msgstr "rubygems-3.4.10.tgz"
+
+#. type: Plain text
+#: ../_posts/2023-07-14-3.4.17-released.md:32
+#, no-wrap
+msgid ""
+"  4afaaa9463e2a8779943432fba56e07396ccec4d4edc72bb06d9db8ac706d2f1\n"
+"* rubygems-3.4.17.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-07-14-3.4.17-released.md:34
+#, no-wrap
+msgid ""
+"  33d69426993f7cc15deaa22ef9048d96008dda77b74ea3a208e8fe5fbfdc86d7\n"
+"* rubygems-update-3.4.17.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-07-14-3.4.17-released.md:36
+#, no-wrap
+msgid "  bc4879f01319c10c9c5f32fd98f412d1fe1a9c84b95c87b9b2969f210f362d67\n"
+msgstr ""
