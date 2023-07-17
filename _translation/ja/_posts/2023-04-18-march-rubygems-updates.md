@@ -39,7 +39,7 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
 - いくつかのテストにおける`GEM_HOME`の構成の役立たない副作用を削除しました。
   [#6461](https://github.com/rubygems/rubygems/pull/6461)が関連します。
 
-3月に、RubyGemsは[332個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、14人の著者による貢献、4504行の追加と3236行の削除が432ファイルにわたってありました。
+3月に、RubyGemsは[332個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、14人の著者による貢献、4504行の追加と3236行の削除が432ファイルに亙ってありました。
 
 ## RubyGems.orgのお知らせ
 
@@ -68,7 +68,7 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
   [#3535](https://github.com/rubygems/rubygems.org/pull/3535)が関連します。
 
 3月に、RubyGems.orgは[190個の新しいコミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、15人の著者による貢献がありました。
-7437行の追加、2105行の削除が337ファイルにわたってありました。
+7437行の追加、2105行の削除が337ファイルに亙ってありました。
 
 ## ありがとうございます
 
@@ -108,5 +108,5 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
 - [@arunagw](https://github.com/arunagw) Arun Agrawal
 
 ---
-RubyGemsの貢献者の手引きを読むとRubyGemsへの貢献について詳しく知ることができます。
+RubyGemsの貢献者の手引きを読むと、RubyGemsへの貢献についての詳細が分かります。
 私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュメントの執筆と更新、バグの選定が含まれます。

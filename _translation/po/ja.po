@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RubyGems.org Blog\n"
-"POT-Creation-Date: 2023-07-15 09:51+0900\n"
-"PO-Revision-Date: 2023-07-15 10:01+0900\n"
+"POT-Creation-Date: 2023-07-17 18:02+0900\n"
+"PO-Revision-Date: 2023-07-17 18:26+0900\n"
 "Last-Translator: gemmaro <gemmaro.dev@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -61,6 +61,7 @@ msgstr "deivid.rodriguez@riseup.net"
 #: ../_posts/2023-06-29-3.4.15-released.md:1
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
+#: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #, no-wrap
 msgid "post"
 msgstr "post"
@@ -303,6 +304,7 @@ msgstr "[download]: https://rubygems.org/pages/download"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:1
 #: ../_posts/2023-05-17-april-rubygems-updates.md:1
 #: ../_posts/2023-06-19-may-rubygems-updates.md:1
+#: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #, no-wrap
 msgid "Gift Egwuenu"
 msgstr "Gift Egwuenu"
@@ -312,6 +314,7 @@ msgstr "Gift Egwuenu"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:1
 #: ../_posts/2023-05-17-april-rubygems-updates.md:1
 #: ../_posts/2023-06-19-may-rubygems-updates.md:1
+#: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #, no-wrap
 msgid "laurandidi21@gmail.com"
 msgstr "laurandidi21@gmail.com"
@@ -341,6 +344,7 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:10
 #: ../_posts/2023-05-17-april-rubygems-updates.md:10
 #: ../_posts/2023-06-19-may-rubygems-updates.md:10
+#: ../_posts/2023-07-17-june-rubygems-updates.md:10
 #, no-wrap
 msgid "RubyGems News"
 msgstr "RubyGemsのお知らせ"
@@ -362,6 +366,7 @@ msgstr ""
 #: ../_posts/2023-03-11-february-rubygems-updates.md:15
 #: ../_posts/2023-04-18-march-rubygems-updates.md:15
 #: ../_posts/2023-05-17-april-rubygems-updates.md:15
+#: ../_posts/2023-07-17-june-rubygems-updates.md:15
 msgid ""
 "The following improvements and fixes are included in these releases (see the "
 "changelog for more information):"
@@ -494,6 +499,7 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:31
 #: ../_posts/2023-05-17-april-rubygems-updates.md:22
 #: ../_posts/2023-06-19-may-rubygems-updates.md:24
+#: ../_posts/2023-07-17-june-rubygems-updates.md:27
 #, no-wrap
 msgid "RubyGems.org News"
 msgstr "RubyGems.orgのお知らせ"
@@ -677,6 +683,7 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:48
 #: ../_posts/2023-05-17-april-rubygems-updates.md:55
 #: ../_posts/2023-06-19-may-rubygems-updates.md:40
+#: ../_posts/2023-07-17-june-rubygems-updates.md:43
 #, no-wrap
 msgid "Thank you"
 msgstr "ありがとうございます"
@@ -686,6 +693,7 @@ msgstr "ありがとうございます"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:51
 #: ../_posts/2023-05-17-april-rubygems-updates.md:58
 #: ../_posts/2023-06-19-may-rubygems-updates.md:43
+#: ../_posts/2023-07-17-june-rubygems-updates.md:46
 msgid ""
 "Thank you to all the contributors of RubyGems and RubyGems.org for this "
 "month! Your contributions are greatly appreciated, and we are grateful for "
@@ -699,6 +707,7 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:52
 #: ../_posts/2023-05-17-april-rubygems-updates.md:59
 #: ../_posts/2023-06-19-may-rubygems-updates.md:44
+#: ../_posts/2023-07-17-june-rubygems-updates.md:47
 #, no-wrap
 msgid "Contributors to RubyGems:"
 msgstr "RubyGemsへの貢献者"
@@ -712,6 +721,8 @@ msgstr "RubyGemsへの貢献者"
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@simi](https://github.com/simi) Josef Šimánek"
 msgstr "[@simi](https://github.com/simi) Josef Šimánek"
 
@@ -731,6 +742,8 @@ msgstr "[@martinemde](https://github.com/martinemde) Martin Emde"
 #: ../_posts/2023-05-17-april-rubygems-updates.md:72
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@hsbt](https://github.com/hsbt) Hiroshi SHIBATA"
 msgstr "[@hsbt](https://github.com/hsbt) Hiroshi SHIBATA"
 
@@ -739,6 +752,7 @@ msgstr "[@hsbt](https://github.com/hsbt) Hiroshi SHIBATA"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
 #: ../_posts/2023-05-17-april-rubygems-updates.md:72
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
 msgid ""
 "[@deivid-rodriguez](https://github.com/deivid-rodriguez) David Rodríguez"
 msgstr ""
@@ -748,6 +762,7 @@ msgstr ""
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
 #: ../_posts/2023-05-17-april-rubygems-updates.md:72
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
 msgid "[@nobu](https://github.com/nobu) Nobuyoshi Nakada"
 msgstr "[@nobu](https://github.com/nobu) Nobuyoshi Nakada"
 
@@ -796,6 +811,7 @@ msgstr "[@mercedesb](https://github.com/mercedesb) Mercedes"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:83
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@segiddins](https://github.com/segiddins) Samuel Giddins"
 msgstr "[@segiddins](https://github.com/segiddins) Samuel Giddins"
 
@@ -806,6 +822,7 @@ msgstr "[@segiddins](https://github.com/segiddins) Samuel Giddins"
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@indirect](https://github.com/indirect) André Arko"
 msgstr "[@indirect](https://github.com/indirect) André Arko"
 
@@ -818,6 +835,7 @@ msgstr "[@luke-gru](https://github.com/luke-gru) Luke Gruber"
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
 msgid "[@duckinator](https://github.com/duckinator) Ellen Marie Dash"
 msgstr "[@duckinator](https://github.com/duckinator) Ellen Marie Dash"
 
@@ -826,6 +844,7 @@ msgstr "[@duckinator](https://github.com/duckinator) Ellen Marie Dash"
 #: ../_posts/2023-04-18-march-rubygems-updates.md:69
 #: ../_posts/2023-05-17-april-rubygems-updates.md:73
 #: ../_posts/2023-06-19-may-rubygems-updates.md:54
+#: ../_posts/2023-07-17-june-rubygems-updates.md:61
 #, no-wrap
 msgid "Contributors to RubyGems.org:"
 msgstr "RubyGems.orgへの貢献者"
@@ -837,6 +856,8 @@ msgstr "RubyGems.orgへの貢献者"
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@jenshenny](https://github.com/jenshenny) Jenny Shen"
 msgstr "[@jenshenny](https://github.com/jenshenny) Jenny Shen"
 
@@ -844,6 +865,7 @@ msgstr "[@jenshenny](https://github.com/jenshenny) Jenny Shen"
 #: ../_posts/2023-03-11-february-rubygems-updates.md:101
 #: ../_posts/2023-05-17-april-rubygems-updates.md:72
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@bettymakes](https://github.com/bettymakes) Betty Li"
 msgstr "[@bettymakes](https://github.com/bettymakes) Betty Li"
 
@@ -854,6 +876,7 @@ msgstr "[@bettymakes](https://github.com/bettymakes) Betty Li"
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:53
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@ericherscovich](https://github.com/ericherscovich) Eric Herscovich"
 msgstr "[@ericherscovich](https://github.com/ericherscovich) Eric Herscovich"
 
@@ -886,16 +909,15 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:85
 #: ../_posts/2023-05-17-april-rubygems-updates.md:89
 #: ../_posts/2023-06-19-may-rubygems-updates.md:67
+#: ../_posts/2023-07-17-june-rubygems-updates.md:74
 msgid ""
 "Learn more about contributing to RubyGems by visiting the RubyGems "
 "Contributing Guide. We welcome all kinds of contributions, including bug "
 "fixes, feature implementation, writing and updating documentation, and bug "
 "triage."
 msgstr ""
-"RubyGemsの貢献者の手引きを読むとRubyGemsへの貢献について詳しく知ることができ"
-"ます。\n"
-"私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュ"
-"メントの執筆と更新、バグの選定が含まれます。"
+"RubyGemsの貢献者の手引きを読むと、RubyGemsへの貢献についての詳細が分かります。\n"
+"私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュメントの執筆と更新、バグの選定が含まれます。"
 
 #. type: YAML Front Matter: title
 #: ../_posts/2023-03-20-3.4.9-released.md:1
@@ -1736,15 +1758,13 @@ msgid ""
 "rubygems/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D), "
 "contributed by 14 authors. There were 4,504 additions and 3,236 deletions "
 "across 432 files."
-msgstr ""
-"3月に、RubyGemsは[332個の新しいコミット](https://github.com/rubygems/"
-"rubygems/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、14人の著"
-"者による貢献、4504行の追加と3236行の削除が432ファイルにわたってありました。"
+msgstr "3月に、RubyGemsは[332個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、14人の著者による貢献、4504行の追加と3236行の削除が432ファイルに亙ってありました。"
 
 #. type: Plain text
 #: ../_posts/2023-04-18-march-rubygems-updates.md:34
 #: ../_posts/2023-05-17-april-rubygems-updates.md:29
 #: ../_posts/2023-06-19-may-rubygems-updates.md:27
+#: ../_posts/2023-07-17-june-rubygems-updates.md:30
 msgid ""
 "This month, RubyGems.org saw several bug fixes and updates, some of which "
 "include:"
@@ -1853,10 +1873,8 @@ msgid ""
 "contributed by 15 authors. There were 7,437 additions and 2,105 deletions "
 "across 337 files."
 msgstr ""
-"3月に、RubyGems.orgは[190個の新しいコミット](https://github.com/rubygems/"
-"rubygems.org/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、15人"
-"の著者による貢献がありました。\n"
-"7437行の追加、2105行の削除が337ファイルにわたってありました。"
+"3月に、RubyGems.orgは[190個の新しいコミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-03-01%7D...master@%7B2023-03-31%7D)、15人の著者による貢献がありました。\n"
+"7437行の追加、2105行の削除が337ファイルに亙ってありました。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
@@ -2041,10 +2059,8 @@ msgid ""
 "contributed by 12 authors. There were 2,125 additions and 1,244 deletions "
 "across 175 files."
 msgstr ""
-"4月に、RubyGemsには12人の著者による[128個の新しいコミット](https://github."
-"com/rubygems/rubygems/compare/master@%7B2023-04-01%7D..."
-"master@%7B2023-04-30%7D)がありました。\n"
-"2125行の追加と1244行の削除が175ファイルにわたってありました。"
+"4月に、RubyGemsには12人の著者による[128個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-04-01%7D...master@%7B2023-04-30%7D)がありました。\n"
+"2125行の追加と1244行の削除が175ファイルに亙ってありました。"
 
 #. type: Title ###
 #: ../_posts/2023-05-17-april-rubygems-updates.md:24
@@ -2257,10 +2273,8 @@ msgid ""
 "contributed by 15 authors. There were 4,754 additions and 1,317 deletions "
 "across 164 files."
 msgstr ""
-"4月は、RubyGems.orgに15人の著者による[162個の新しいコミット](https://github."
-"com/rubygems/rubygems.org/compare/master@%7B2023-04-01%7D..."
-"master@%7B2023-04-31%7D)がありました。\n"
-"4754行の追加と1317行の削除が164ファイルにわたってありました。"
+"4月は、RubyGems.orgに15人の著者による[162個の新しいコミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-04-01%7D...master@%7B2023-04-31%7D)がありました。\n"
+"4754行の追加と1317行の削除が164ファイルに亙ってありました。"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-05-17-april-rubygems-updates.md:72
@@ -2565,6 +2579,7 @@ msgstr "[@dancristianb](https://github.com/dancristianb) Dan Cristian"
 
 #. type: Bullet: '- '
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
 msgid "[@juankuquintana](https://github.com/juankuquintana) Juan Ku Quintana"
 msgstr "[@juankuquintana](https://github.com/juankuquintana) Juan Ku Quintana"
 
@@ -2709,8 +2724,10 @@ msgid ""
 "Avoid unnecessary work for private local gem installation. Pull request "
 "[#6810](https://github.com/rubygems/rubygems/pull/6810) by deivid-rodriguez"
 msgstr ""
-"プライベートなローカルgemのインストールで不必要な処理を回避するようにしました。\n"
-"プルリクエストはdeivid-rodriguezによる[#6810](https://github.com/rubygems/rubygems/pull/6810)です"
+"プライベートなローカルgemのインストールで不必要な処理を回避するようにしまし"
+"た。\n"
+"プルリクエストはdeivid-rodriguezによる[#6810](https://github.com/rubygems/"
+"rubygems/pull/6810)です"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-07-14-3.4.17-released.md:30
@@ -2742,3 +2759,183 @@ msgstr ""
 #, no-wrap
 msgid "  bc4879f01319c10c9c5f32fd98f412d1fe1a9c84b95c87b9b2969f210f362d67\n"
 msgstr "  bc4879f01319c10c9c5f32fd98f412d1fe1a9c84b95c87b9b2969f210f362d67\n"
+
+#. type: YAML Front Matter: title
+#: ../_posts/2023-07-17-june-rubygems-updates.md:1
+#, no-wrap
+msgid "June 2023 RubyGems Updates"
+msgstr "2023年6月のRubyGemsの更新"
+
+#. type: Plain text
+#: ../_posts/2023-07-17-june-rubygems-updates.md:9
+msgid ""
+"Welcome to the RubyGems monthly update! As part of our efforts at Ruby "
+"Central, we publish a recap of the work that we’ve done the previous month. "
+"Read on to find out what updates were made to RubyGems and RubyGems.org in "
+"June."
+msgstr ""
+"RubyGemsの月次更新へようこそ。\n"
+"Ruby Centralでの私達が取り組んできたことの一部として、前月に完了した成果の振り返りを公開します。\n"
+"お読みいただければ、6月のRubyGemsとRubyGems.orgになされた更新にどんなものがあったかが分かります。"
+
+#. type: Plain text
+#: ../_posts/2023-07-17-june-rubygems-updates.md:13
+msgid ""
+"This month in RubyGems, we released RubyGems [3.4.14](https://github.com/"
+"rubygems/rubygems/blob/master/CHANGELOG.md#3414--2023-06-12), [3.4.15]"
+"(https://github.com/rubygems/rubygems/blob/master/CHANGELOG."
+"md#3415--2023-06-29), and Bundler [2.4.14](https://github.com/rubygems/"
+"rubygems/blob/master/bundler/CHANGELOG.md#2414-june-12-2023), [2.4.15]"
+"(https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#2415-"
+"june-29-2023)."
+msgstr "今月のRubyGemsでは、RubyGems [3.4.14](https://github.com/rubygems/rubygems/blob/master/CHANGELOG.md#3414--2023-06-12)、[3.4.15](https://github.com/rubygems/rubygems/blob/master/CHANGELOG.md#3415--2023-06-29)、Bundler [2.4.14](https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#2414-june-12-2023)、[2.4.15](https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#2415-june-29-2023)をリリースしました。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"resolved a problem where using git sources could make the order of lockfiles "
+"unstable - [#6786](https://github.com/rubygems/rubygems/pull/6786)."
+msgstr "gitのソースを使う場合にロックファイル中の順番が不定になっていた問題を解決 - [#6786](https://github.com/rubygems/rubygems/pull/6786)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"updated the command to test local gem command changes - [#6761](https://"
+"github.com/rubygems/rubygems/pull/6761)."
+msgstr "ローカルのgemコマンドの変更を試すためのコマンドを更新 - [#6761](https://github.com/rubygems/rubygems/pull/6761)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"enabled `Performance/FlatMap` cop - [#6745](https://github.com/rubygems/"
+"rubygems/pull/6745)."
+msgstr "`Performance/FlatMap` copを有効化 - [#6745](https://github.com/rubygems/rubygems/pull/6745)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"improved the edge case error message - [#6733](https://github.com/rubygems/"
+"rubygems/pull/6733)."
+msgstr "エッジケースでのエラー文言を改善 - [#6733](https://github.com/rubygems/rubygems/pull/6733)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"stopped publishing the Gemfile in the default gem template - [#6723](https://"
+"github.com/rubygems/rubygems/pull/6723)."
+msgstr "既定のgemテンプレートでGemfileを公開しないように変更 - [#6723](https://github.com/rubygems/rubygems/pull/6723)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"added a fix to avoid infinite loops when hitting resolution bugs - [#6722]"
+"(https://github.com/rubygems/rubygems/pull/6722)."
+msgstr "依存解決の不具合に当たったときに無限ループしてしまうのを回避する修正を追加- [#6722](https://github.com/rubygems/rubygems/pull/6722)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:23
+msgid ""
+"stopped failures from occurring when the build directory name contains `+` "
+"symbol - [#6750](https://github.com/rubygems/rubygems/pull/6750)."
+msgstr "ビルドディレクトリ名に`+`記号が含まれる場合に失敗しないように変更 - [#6750](https://github.com/rubygems/rubygems/pull/6750)。"
+
+#. type: Plain text
+#: ../_posts/2023-07-17-june-rubygems-updates.md:26
+msgid ""
+"In June, RubyGems gained [109 new commits](https://github.com/rubygems/"
+"rubygems/compare/master@%7B2023-06-01%7D...master@%7B2023-06-30%7D) "
+"contributed by 10 authors. There were 978 additions and 624 deletions across "
+"110 files."
+msgstr ""
+"6月はRubyGemsには10人の著者による貢献で[109個の新規コミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-06-01%7D...master@%7B2023-06-30%7D)がありました。\n"
+"110ファイルに亙って978行の追加と624行の削除がありました。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"updated `toxiproxy` - [#3884](https://github.com/rubygems/rubygems.org/"
+"pull/3884)."
+msgstr "`toxiproxy`を更新 - [#3884](https://github.com/rubygems/rubygems.org/pull/3884)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"updated `kubeconform` used on CI - [#3886](https://github.com/rubygems/"
+"rubygems.org/pull/3886)."
+msgstr "CIで使われる`kubeconform`を更新 - [#3886](https://github.com/rubygems/rubygems.org/pull/3886)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"switched `webauthn_credentials.any?` and `.present?` to be webauthn_enabled? "
+"- [#3867](https://github.com/rubygems/rubygems.org/pull/3867)."
+msgstr "`webauthn_credentials.any?`と`.present?`をwebauthn_enabled?に切り替え - [#3867](https://github.com/rubygems/rubygems.org/pull/3867)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"added recovery code support for webauthn - [#3859](https://github.com/"
+"rubygems/rubygems.org/pull/3859)."
+msgstr "webauthn向けに復元コード対応を追加 - [#3859](https://github.com/rubygems/rubygems.org/pull/3859)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"made `create_between` consistent for versions with same`created_at` "
+"timeframe - [#3887](https://github.com/rubygems/rubygems.org/pull/3887)."
+msgstr "同じ`created_at`の時間幅を持つバージョンに関して`create_between`が一貫したものになるように変更 - [#3887](https://github.com/rubygems/rubygems.org/pull/3887)。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:37
+msgid ""
+"added an admin action to reserve a gem namespace - [#3875](https://github."
+"com/rubygems/rubygems.org/pull/3875)."
+msgstr "gemの名前空間を予約する管理者アクションを追加 - [#3875](https://github.com/rubygems/rubygems.org/pull/3875)。"
+
+#. type: Plain text
+#: ../_posts/2023-07-17-june-rubygems-updates.md:39
+msgid ""
+"![admin dashboard](https://res.cloudinary.com/lauragift/image/upload/w_650,"
+"h_500/v1689579722/248446070-a0eeaafa-1d52-4825-b73c-ccfa7a77228d_xqcueg.png)"
+msgstr "![管理者のダッシュボード](https://res.cloudinary.com/lauragift/image/upload/w_650,h_500/v1689579722/248446070-a0eeaafa-1d52-4825-b73c-ccfa7a77228d_xqcueg.png)"
+
+#. type: Plain text
+#: ../_posts/2023-07-17-june-rubygems-updates.md:42
+msgid ""
+"In June, RubyGems gained [113 new commits](https://github.com/rubygems/"
+"rubygems.org/compare/master@%7B2023-06-01%7D...master@%7B2023-06-30%7D) "
+"contributed by 11 authors. There were 2,262 additions and 463 deletions "
+"across 76 files."
+msgstr ""
+"6月のRubyGemsには11人の著者による[113個の新しいコミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-06-01%7D...master@%7B2023-06-30%7D)がありました。\n"
+"2,262行の追加と463行の削除が76ファイルに亙ってありました。"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+msgid "[@davetron5000](https://github.com/davetron5000) David Copeland"
+msgstr "[@davetron5000](https://github.com/davetron5000) David Copeland"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+msgid "[@gareth](https://github.com/gareth) Gareth Adams"
+msgstr "[@gareth](https://github.com/gareth) Gareth Adams"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+msgid "[@ioquatix](https://github.com/ioquatix) Samuel Williams"
+msgstr "[@ioquatix](https://github.com/ioquatix) Samuel Williams"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+msgid "[@andrykonchin](https://github.com/andrykonchin) Andrii Konchyn"
+msgstr "[@andrykonchin](https://github.com/andrykonchin) Andrii Konchyn"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:60
+msgid "[@george-ma](https://github.com/george-ma) George Ma"
+msgstr "[@george-ma](https://github.com/george-ma) George Ma"
+
+#. type: Bullet: '- '
+#: ../_posts/2023-07-17-june-rubygems-updates.md:72
+msgid "[@bradly](https://github.com/bradly) Bradly Feeley"
+msgstr "[@bradly](https://github.com/bradly) Bradly Feeley"

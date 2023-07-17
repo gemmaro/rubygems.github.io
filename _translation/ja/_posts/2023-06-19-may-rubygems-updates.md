@@ -86,5 +86,5 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
 - [@juankuquintana](https://github.com/juankuquintana) Juan Ku Quintana
 
 ---
-RubyGemsの貢献者の手引きを読むとRubyGemsへの貢献について詳しく知ることができます。
+RubyGemsの貢献者の手引きを読むと、RubyGemsへの貢献についての詳細が分かります。
 私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュメントの執筆と更新、バグの選定が含まれます。

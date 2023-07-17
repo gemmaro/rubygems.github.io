@@ -23,7 +23,7 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
   また、[#6628](https://github.com/rubygems/rubygems/pull/6628)では内製のgemへタスクを統合しました。
 
 4月に、RubyGemsには12人の著者による[128個の新しいコミット](https://github.com/rubygems/rubygems/compare/master@%7B2023-04-01%7D...master@%7B2023-04-30%7D)がありました。
-2125行の追加と1244行の削除が175ファイルにわたってありました。
+2125行の追加と1244行の削除が175ファイルに亙ってありました。
 
 ## RubyGems.orgのお知らせ
 
@@ -58,7 +58,7 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
 ![safariのメッセージ](https://res.cloudinary.com/lauragift/image/upload/w_800,h_400/v1684313721/229232078-ec42d109-2d9f-4dce-9cee-fe1124db6da4_ibdvg3.png)
 
 4月は、RubyGems.orgに15人の著者による[162個の新しいコミット](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-04-01%7D...master@%7B2023-04-31%7D)がありました。
-4754行の追加と1317行の削除が164ファイルにわたってありました。
+4754行の追加と1317行の削除が164ファイルに亙ってありました。
 
 
 ## ありがとうございます
@@ -97,5 +97,5 @@ Ruby Centralでの私達が取り組んできたことの一部として、前�
   Rizo
 
 ---
-RubyGemsの貢献者の手引きを読むとRubyGemsへの貢献について詳しく知ることができます。
+RubyGemsの貢献者の手引きを読むと、RubyGemsへの貢献についての詳細が分かります。
 私達はあらゆる種類の貢献を歓迎しており、これにはバグ修正、機能の実装、ドキュメントの執筆と更新、バグの選定が含まれます。
