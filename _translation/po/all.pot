@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-07-17 18:02+0900\n"
+"POT-Creation-Date: 2023-08-02 20:47+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,7 +16,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#. type: YAML Front Matter: author
+#. type: Yaml Front Matter Hash Value: author
 #: ../_posts/2023-03-08-3.4.8-released.md:1
 #: ../_posts/2023-03-20-3.4.9-released.md:1
 #: ../_posts/2023-03-27-3.4.10-released.md:1
@@ -27,11 +27,12 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:1
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
+#: ../_posts/2023-08-02-3.4.18-released.md:1
 #, no-wrap
 msgid "David Rodríguez"
 msgstr ""
 
-#. type: YAML Front Matter: author_email
+#. type: Yaml Front Matter Hash Value: author_email
 #: ../_posts/2023-03-08-3.4.8-released.md:1
 #: ../_posts/2023-03-20-3.4.9-released.md:1
 #: ../_posts/2023-03-27-3.4.10-released.md:1
@@ -42,11 +43,12 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:1
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
+#: ../_posts/2023-08-02-3.4.18-released.md:1
 #, no-wrap
 msgid "deivid.rodriguez@riseup.net"
 msgstr ""
 
-#. type: YAML Front Matter: layout
+#. type: Yaml Front Matter Hash Value: layout
 #: ../_posts/2023-03-08-3.4.8-released.md:1
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
 #: ../_posts/2023-03-20-3.4.9-released.md:1
@@ -64,11 +66,12 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-07-17-june-rubygems-updates.md:1
+#: ../_posts/2023-08-02-3.4.18-released.md:1
 #, no-wrap
 msgid "post"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-03-08-3.4.8-released.md:1
 #, no-wrap
 msgid "3.4.8 Released"
@@ -91,6 +94,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:11
 #: ../_posts/2023-07-10-3.4.16-released.md:11
 #: ../_posts/2023-07-14-3.4.17-released.md:11
+#: ../_posts/2023-08-02-3.4.18-released.md:11
 #, markdown-text
 msgid "To update to the latest RubyGems you can run:"
 msgstr ""
@@ -106,6 +110,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:13
 #: ../_posts/2023-07-10-3.4.16-released.md:13
 #: ../_posts/2023-07-14-3.4.17-released.md:13
+#: ../_posts/2023-08-02-3.4.18-released.md:13
 #, markdown-text, no-wrap
 msgid "    gem update --system\n"
 msgstr ""
@@ -121,6 +126,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:15
 #: ../_posts/2023-07-10-3.4.16-released.md:15
 #: ../_posts/2023-07-14-3.4.17-released.md:15
+#: ../_posts/2023-08-02-3.4.18-released.md:15
 #, markdown-text
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
@@ -136,6 +142,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:18
 #: ../_posts/2023-07-10-3.4.16-released.md:18
 #: ../_posts/2023-07-14-3.4.17-released.md:18
+#: ../_posts/2023-08-02-3.4.18-released.md:18
 #, markdown-text
 msgid "_## Enhancements:_"
 msgstr ""
@@ -240,6 +247,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:33
 #: ../_posts/2023-07-10-3.4.16-released.md:23
 #: ../_posts/2023-07-14-3.4.17-released.md:29
+#: ../_posts/2023-08-02-3.4.18-released.md:29
 #, markdown-text
 msgid "SHA256 Checksums:"
 msgstr ""
@@ -283,11 +291,12 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:43
 #: ../_posts/2023-07-10-3.4.16-released.md:33
 #: ../_posts/2023-07-14-3.4.17-released.md:39
+#: ../_posts/2023-08-02-3.4.18-released.md:39
 #, markdown-text
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr ""
 
-#. type: YAML Front Matter: author
+#. type: Yaml Front Matter Hash Value: author
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
 #: ../_posts/2023-04-18-march-rubygems-updates.md:1
 #: ../_posts/2023-05-17-april-rubygems-updates.md:1
@@ -297,7 +306,7 @@ msgstr ""
 msgid "Gift Egwuenu"
 msgstr ""
 
-#. type: YAML Front Matter: author_email
+#. type: Yaml Front Matter Hash Value: author_email
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
 #: ../_posts/2023-04-18-march-rubygems-updates.md:1
 #: ../_posts/2023-05-17-april-rubygems-updates.md:1
@@ -307,7 +316,7 @@ msgstr ""
 msgid "laurandidi21@gmail.com"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-03-11-february-rubygems-updates.md:1
 #, no-wrap
 msgid "February 2023 RubyGems Updates"
@@ -876,7 +885,7 @@ msgid ""
 "triage."
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-03-20-3.4.9-released.md:1
 #, no-wrap
 msgid "3.4.9 Released"
@@ -962,7 +971,7 @@ msgstr ""
 msgid "  7c78efe1cc1cf23670957130a59d0b71f19cc409497e8f9e07b3ae1d05526901\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-03-27-3.4.10-released.md:1
 #, no-wrap
 msgid "3.4.10 Released"
@@ -1008,19 +1017,19 @@ msgstr ""
 msgid "  a1a93ded10d23f4f5a57acd8614609e65658a7cf0c672b0597e4456f25371ad1\n"
 msgstr ""
 
-#. type: YAML Front Matter: author
+#. type: Yaml Front Matter Hash Value: author
 #: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
 #, no-wrap
 msgid "André Arko"
 msgstr ""
 
-#. type: YAML Front Matter: author_email
+#. type: Yaml Front Matter Hash Value: author_email
 #: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
 #, no-wrap
 msgid "andre@arko.net"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-04-07-dependency-api-deprecation-delayed.md:1
 #, no-wrap
 msgid "Dependency API Deprecation Delayed"
@@ -1299,7 +1308,7 @@ msgid ""
 "maintainers of RubyGems."
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-04-10-3.4.11-released.md:1
 #, no-wrap
 msgid "3.4.11 Released"
@@ -1345,19 +1354,19 @@ msgstr ""
 msgid "  7d9a7ff6f039a16a9ce89e22d0b73a76ada9948d33e8ecb401985e98a5aa7363\n"
 msgstr ""
 
-#. type: YAML Front Matter: author
+#. type: Yaml Front Matter Hash Value: author
 #: ../_posts/2023-04-11-security-device-cli-support.md:1
 #, no-wrap
 msgid "Jenny Shen"
 msgstr ""
 
-#. type: YAML Front Matter: author_email
+#. type: Yaml Front Matter Hash Value: author_email
 #: ../_posts/2023-04-11-security-device-cli-support.md:1
 #, no-wrap
 msgid "jenny.shen@shopify.com"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-04-11-security-device-cli-support.md:1
 #, no-wrap
 msgid "Introducing Security Device support on RubyGems’ CLI"
@@ -1439,7 +1448,7 @@ msgid ""
 "issue](https://github.com/rubygems/rubygems.org/issues)."
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-04-11-3.4.12-released.md:1
 #, no-wrap
 msgid "3.4.12 Released"
@@ -1493,7 +1502,7 @@ msgstr ""
 msgid "  27fd5fee9959c76e762b5794f3afce2f9146e8ff2d41bc246d0c1b57fbc68161\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-04-18-march-rubygems-updates.md:1
 #, no-wrap
 msgid "March 2023 RubyGems Updates"
@@ -1787,7 +1796,7 @@ msgstr ""
 msgid "[@cprodhomme](https://github.com/cprodhomme) Clément Prod'homme"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-05-10-3.4.13-released.md:1
 #, no-wrap
 msgid "3.4.13 Released"
@@ -1833,7 +1842,7 @@ msgstr ""
 msgid "  d6d5e256666a5c515e4abfb5e9cf04e70f0d5a3d28cc1fb5aceeeca9e0eb25d6\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-05-17-april-rubygems-updates.md:1
 #, no-wrap
 msgid "April 2023 RubyGems Updates"
@@ -2109,7 +2118,7 @@ msgstr ""
 msgid "[@adrianthedev](https://github.com/adrianthedev) Adrian Marin"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-06-12-3.4.14-released.md:1
 #, no-wrap
 msgid "3.4.14 Released"
@@ -2172,7 +2181,7 @@ msgstr ""
 msgid "  7edbb248a933384dd733133086e28777156d3dd3b6c927774fdfea14fd0e8a5a\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-06-19-may-rubygems-updates.md:1
 #, no-wrap
 msgid "May 2023 RubyGems Updates"
@@ -2374,7 +2383,7 @@ msgstr ""
 msgid "[@juankuquintana](https://github.com/juankuquintana) Juan Ku Quintana"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-06-29-3.4.15-released.md:1
 #, no-wrap
 msgid "3.4.15 Released"
@@ -2436,7 +2445,7 @@ msgstr ""
 msgid "  bf44173e671662764617fba794ae4d850436f9865aa950d28e55998a538c5144\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #, no-wrap
 msgid "3.4.16 Released"
@@ -2482,7 +2491,7 @@ msgstr ""
 msgid "  bbb280fdb45831662845160e84856948396e86e271f151bc00e32d485aae5288\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #, no-wrap
 msgid "3.4.17 Released"
@@ -2542,7 +2551,7 @@ msgstr ""
 msgid "  bc4879f01319c10c9c5f32fd98f412d1fe1a9c84b95c87b9b2969f210f362d67\n"
 msgstr ""
 
-#. type: YAML Front Matter: title
+#. type: Yaml Front Matter Hash Value: title
 #: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #, no-wrap
 msgid "June 2023 RubyGems Updates"
@@ -2736,4 +2745,74 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:72
 #, markdown-text
 msgid "[@bradly](https://github.com/bradly) Bradly Feeley"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-08-02-3.4.18-released.md:1
+#, no-wrap
+msgid "3.4.18 Released"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-02-3.4.18-released.md:9
+#, markdown-text
+msgid "RubyGems 3.4.18 includes enhancements."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-02-3.4.18-released.md:26
+#, markdown-text
+msgid ""
+"Add poller to fetch WebAuthn OTP. Pull request "
+"[#6774](https://github.com/rubygems/rubygems/pull/6774) by jenshenny"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-02-3.4.18-released.md:26
+#, markdown-text
+msgid ""
+"Remove side effects when unmarshaling old `Gem::Specification`. Pull request "
+"[#6825](https://github.com/rubygems/rubygems/pull/6825) by nobu"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-02-3.4.18-released.md:26
+#, markdown-text
+msgid ""
+"Ship rubygems executables in `exe` folder. Pull request "
+"[#6704](https://github.com/rubygems/rubygems/pull/6704) by hsbt"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-02-3.4.18-released.md:26
+#, markdown-text
+msgid "Installs bundler 2.4.18 as a default gem."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-02-3.4.18-released.md:30
+#, markdown-text
+msgid "rubygems-3.4.18.tgz"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-02-3.4.18-released.md:32
+#, markdown-text, no-wrap
+msgid ""
+"  fb21d325679d64d0a4911308453d74dd031314938395b2763f055b4e0844a343\n"
+"* rubygems-3.4.18.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-02-3.4.18-released.md:34
+#, markdown-text, no-wrap
+msgid ""
+"  8fedfb1ac61101fcf4bbd842216f4f87fd5ca1ab406867ed859f65ad13011228\n"
+"* rubygems-update-3.4.18.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-02-3.4.18-released.md:36
+#, markdown-text, no-wrap
+msgid "  12b031edcdbb8d8bc8f3d208c873aed381d5617db3d274f48237acf0fed73546\n"
 msgstr ""
