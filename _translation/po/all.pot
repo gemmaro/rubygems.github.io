@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-08-02 20:47+0900\n"
+"POT-Creation-Date: 2023-08-21 09:16+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -28,6 +28,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-08-02-3.4.18-released.md:1
+#: ../_posts/2023-08-17-3.4.19-released.md:1
 #, no-wrap
 msgid "David Rodríguez"
 msgstr ""
@@ -44,6 +45,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:1
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-08-02-3.4.18-released.md:1
+#: ../_posts/2023-08-17-3.4.19-released.md:1
 #, no-wrap
 msgid "deivid.rodriguez@riseup.net"
 msgstr ""
@@ -67,6 +69,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #: ../_posts/2023-08-02-3.4.18-released.md:1
+#: ../_posts/2023-08-17-3.4.19-released.md:1
 #, no-wrap
 msgid "post"
 msgstr ""
@@ -95,6 +98,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:11
 #: ../_posts/2023-07-14-3.4.17-released.md:11
 #: ../_posts/2023-08-02-3.4.18-released.md:11
+#: ../_posts/2023-08-17-3.4.19-released.md:11
 #, markdown-text
 msgid "To update to the latest RubyGems you can run:"
 msgstr ""
@@ -111,6 +115,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:13
 #: ../_posts/2023-07-14-3.4.17-released.md:13
 #: ../_posts/2023-08-02-3.4.18-released.md:13
+#: ../_posts/2023-08-17-3.4.19-released.md:13
 #, markdown-text, no-wrap
 msgid "    gem update --system\n"
 msgstr ""
@@ -127,6 +132,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:15
 #: ../_posts/2023-07-14-3.4.17-released.md:15
 #: ../_posts/2023-08-02-3.4.18-released.md:15
+#: ../_posts/2023-08-17-3.4.19-released.md:15
 #, markdown-text
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
@@ -143,6 +149,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:18
 #: ../_posts/2023-07-14-3.4.17-released.md:18
 #: ../_posts/2023-08-02-3.4.18-released.md:18
+#: ../_posts/2023-08-17-3.4.19-released.md:18
 #, markdown-text
 msgid "_## Enhancements:_"
 msgstr ""
@@ -248,6 +255,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:23
 #: ../_posts/2023-07-14-3.4.17-released.md:29
 #: ../_posts/2023-08-02-3.4.18-released.md:29
+#: ../_posts/2023-08-17-3.4.19-released.md:29
 #, markdown-text
 msgid "SHA256 Checksums:"
 msgstr ""
@@ -292,6 +300,7 @@ msgstr ""
 #: ../_posts/2023-07-10-3.4.16-released.md:33
 #: ../_posts/2023-07-14-3.4.17-released.md:39
 #: ../_posts/2023-08-02-3.4.18-released.md:39
+#: ../_posts/2023-08-17-3.4.19-released.md:39
 #, markdown-text
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr ""
@@ -2511,6 +2520,7 @@ msgstr ""
 
 #. type: Plain text
 #: ../_posts/2023-07-14-3.4.17-released.md:22
+#: ../_posts/2023-08-17-3.4.19-released.md:22
 #, markdown-text
 msgid "_## Performance:_"
 msgstr ""
@@ -2815,4 +2825,58 @@ msgstr ""
 #: ../_posts/2023-08-02-3.4.18-released.md:36
 #, markdown-text, no-wrap
 msgid "  12b031edcdbb8d8bc8f3d208c873aed381d5617db3d274f48237acf0fed73546\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-08-17-3.4.19-released.md:1
+#, no-wrap
+msgid "3.4.19 Released"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-17-3.4.19-released.md:9
+#, markdown-text
+msgid "RubyGems 3.4.19 includes enhancements and performance."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-17-3.4.19-released.md:20
+#, markdown-text
+msgid "Installs bundler 2.4.19 as a default gem."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-17-3.4.19-released.md:26
+#, markdown-text
+msgid ""
+"Speedup building docs when updating rubygems. Pull request "
+"[#6864](https://github.com/rubygems/rubygems/pull/6864) by deivid-rodriguez"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-08-17-3.4.19-released.md:30
+#, markdown-text
+msgid "rubygems-3.4.19.tgz"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-17-3.4.19-released.md:32
+#, markdown-text, no-wrap
+msgid ""
+"  f996294bd50e075eaa0a386b2b0146067e37b7728d3affd022b2ca20f032c16b\n"
+"* rubygems-3.4.19.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-17-3.4.19-released.md:34
+#, markdown-text, no-wrap
+msgid ""
+"  1ce9513b6157c92e619c934a2aad45e7f69183a9c7db94befe1016da1e63b55b\n"
+"* rubygems-update-3.4.19.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-08-17-3.4.19-released.md:36
+#, markdown-text, no-wrap
+msgid "  5dc2a9092e7d7047b04b7ba8755ad97d42ed1e174e01e5caaae1673433b79a99\n"
 msgstr ""
