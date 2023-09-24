@@ -17,3 +17,7 @@ deploy:
 style:
 	guix style -f ../manifest.scm
 .PHONY: style
+
+status:
+	ruby status.rb
+.PHONY: status
