@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-09-24 09:23+0900\n"
+"POT-Creation-Date: 2023-09-28 08:01+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,6 +46,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-08-02-3.4.18-released.md:1
 #: ../_posts/2023-08-17-3.4.19-released.md:1
+#: ../_posts/2023-09-27-3.4.20-released.md:1
 #, no-wrap
 msgid "deivid.rodriguez@riseup.net"
 msgstr ""
@@ -72,6 +73,7 @@ msgstr ""
 #: ../_posts/2023-08-11-july-rubygems-updates.md:1
 #: ../_posts/2023-08-17-3.4.19-released.md:1
 #: ../_posts/2023-09-19-august-rubygems-updates.md:1
+#: ../_posts/2023-09-27-3.4.20-released.md:1
 #, no-wrap
 msgid "post"
 msgstr ""
@@ -101,6 +103,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:11
 #: ../_posts/2023-08-02-3.4.18-released.md:11
 #: ../_posts/2023-08-17-3.4.19-released.md:11
+#: ../_posts/2023-09-27-3.4.20-released.md:11
 #, markdown-text
 msgid "To update to the latest RubyGems you can run:"
 msgstr ""
@@ -118,6 +121,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:13
 #: ../_posts/2023-08-02-3.4.18-released.md:13
 #: ../_posts/2023-08-17-3.4.19-released.md:13
+#: ../_posts/2023-09-27-3.4.20-released.md:13
 #, markdown-text, no-wrap
 msgid "    gem update --system\n"
 msgstr ""
@@ -135,6 +139,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:15
 #: ../_posts/2023-08-02-3.4.18-released.md:15
 #: ../_posts/2023-08-17-3.4.19-released.md:15
+#: ../_posts/2023-09-27-3.4.20-released.md:15
 #, markdown-text
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
@@ -152,6 +157,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:18
 #: ../_posts/2023-08-02-3.4.18-released.md:18
 #: ../_posts/2023-08-17-3.4.19-released.md:18
+#: ../_posts/2023-09-27-3.4.20-released.md:18
 #, markdown-text
 msgid "_## Enhancements:_"
 msgstr ""
@@ -199,6 +205,7 @@ msgstr ""
 #: ../_posts/2023-03-08-3.4.8-released.md:33
 #: ../_posts/2023-03-20-3.4.9-released.md:27
 #: ../_posts/2023-06-29-3.4.15-released.md:22
+#: ../_posts/2023-09-27-3.4.20-released.md:35
 #, markdown-text
 msgid "_## Bug fixes:_"
 msgstr ""
@@ -258,6 +265,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:29
 #: ../_posts/2023-08-02-3.4.18-released.md:29
 #: ../_posts/2023-08-17-3.4.19-released.md:29
+#: ../_posts/2023-09-27-3.4.20-released.md:53
 #, markdown-text
 msgid "SHA256 Checksums:"
 msgstr ""
@@ -303,6 +311,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:39
 #: ../_posts/2023-08-02-3.4.18-released.md:39
 #: ../_posts/2023-08-17-3.4.19-released.md:39
+#: ../_posts/2023-09-27-3.4.20-released.md:63
 #, markdown-text
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr ""
@@ -2572,6 +2581,7 @@ msgstr ""
 #. type: Plain text
 #: ../_posts/2023-07-14-3.4.17-released.md:22
 #: ../_posts/2023-08-17-3.4.19-released.md:22
+#: ../_posts/2023-09-27-3.4.20-released.md:47
 #, markdown-text
 msgid "_## Performance:_"
 msgstr ""
@@ -3449,4 +3459,132 @@ msgstr ""
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
 #, markdown-text
 msgid "[@tnir](https://github.com/tnir) Takuya N"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: author
+#: ../_posts/2023-09-27-3.4.20-released.md:1
+#, no-wrap
+msgid "David Rodriguez"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-09-27-3.4.20-released.md:1
+#, no-wrap
+msgid "3.4.20 Released"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-09-27-3.4.20-released.md:9
+#, markdown-text
+msgid "RubyGems 3.4.20 includes enhancements, bug fixes and performance."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid ""
+"Raise `Gem::Package::FormatError` when gem encounters corrupt EOF.  Pull "
+"request [#6882](https://github.com/rubygems/rubygems/pull/6882)  by "
+"martinemde"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid ""
+"Allow skipping empty license `gem build` warning by setting license to "
+"`nil`. Pull request [#6879](https://github.com/rubygems/rubygems/pull/6879) "
+"by jhong97"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid ""
+"Update SPDX license list as of 2023-06-18. Pull request "
+"[#6891](https://github.com/rubygems/rubygems/pull/6891) by "
+"github-actions[bot]"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid ""
+"Update SPDX license list as of 2023-04-28. Pull request "
+"[#6642](https://github.com/rubygems/rubygems/pull/6642) by segiddins"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid ""
+"Update SPDX license list as of 2023-01-26. Pull request "
+"[#6310](https://github.com/rubygems/rubygems/pull/6310) by segiddins"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:33
+#, markdown-text
+msgid "Installs bundler 2.4.20 as a default gem."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:45
+#, markdown-text
+msgid ""
+"Fixed false positive SymlinkError in symbolic link directory. Pull request "
+"[#6947](https://github.com/rubygems/rubygems/pull/6947) by negi0109"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:45
+#, markdown-text
+msgid ""
+"Ensure that loading multiple gemspecs with legacy YAML class references does "
+"not warn. Pull request "
+"[#6889](https://github.com/rubygems/rubygems/pull/6889) by segiddins"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:45
+#, markdown-text
+msgid ""
+"Fix NoMethodError when choosing a too big number from `gem uni` list.  Pull "
+"request [#6901](https://github.com/rubygems/rubygems/pull/6901) by amatsuda"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:50
+#, markdown-text
+msgid ""
+"Reduce allocations for stub specifications. Pull request "
+"[#6972](https://github.com/rubygems/rubygems/pull/6972) by segiddins"
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-09-27-3.4.20-released.md:54
+#, markdown-text
+msgid "rubygems-3.4.20.tgz"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-09-27-3.4.20-released.md:56
+#, markdown-text, no-wrap
+msgid ""
+"  f6328a79feca3e749880a6f7cdfd4b6ae945049b83a58ea958e2474a91ba1f3b\n"
+"* rubygems-3.4.20.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-09-27-3.4.20-released.md:58
+#, markdown-text, no-wrap
+msgid ""
+"  c73f0b54c228e8aa552f57c15ab0b046b42ec4f4eb7621acd33a56f975d64e97\n"
+"* rubygems-update-3.4.20.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-09-27-3.4.20-released.md:60
+#, markdown-text, no-wrap
+msgid "  d7b158ab0ff672a780f18fa73e83dfc158384bb229cb14bf977af36fae541f50\n"
 msgstr ""
