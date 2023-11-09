@@ -5,8 +5,8 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: RubyGems.org Blog\n"
-"POT-Creation-Date: 2023-09-28 08:01+0900\n"
-"PO-Revision-Date: 2023-09-28 08:13+0900\n"
+"POT-Creation-Date: 2023-11-10 07:48+0900\n"
+"PO-Revision-Date: 2023-11-10 07:54+0900\n"
 "Last-Translator: gemmaro <gemmaro.dev@gmail.com>\n"
 "Language-Team: none\n"
 "Language: ja\n"
@@ -27,6 +27,7 @@ msgstr ""
 #: ../_posts/2023-07-14-3.4.17-released.md:1
 #: ../_posts/2023-08-02-3.4.18-released.md:1
 #: ../_posts/2023-08-17-3.4.19-released.md:1
+#: ../_posts/2023-11-09-3.4.22-released.md:1
 #, no-wrap
 msgid "David Rodríguez"
 msgstr "David Rodríguez"
@@ -45,6 +46,7 @@ msgstr "David Rodríguez"
 #: ../_posts/2023-08-02-3.4.18-released.md:1
 #: ../_posts/2023-08-17-3.4.19-released.md:1
 #: ../_posts/2023-09-27-3.4.20-released.md:1
+#: ../_posts/2023-11-09-3.4.22-released.md:1
 #, no-wrap
 msgid "deivid.rodriguez@riseup.net"
 msgstr "deivid.rodriguez@riseup.net"
@@ -72,6 +74,7 @@ msgstr "deivid.rodriguez@riseup.net"
 #: ../_posts/2023-08-17-3.4.19-released.md:1
 #: ../_posts/2023-09-19-august-rubygems-updates.md:1
 #: ../_posts/2023-09-27-3.4.20-released.md:1
+#: ../_posts/2023-11-09-3.4.22-released.md:1
 #, no-wrap
 msgid "post"
 msgstr "post"
@@ -101,6 +104,7 @@ msgstr "RubyGems 3.4.8には改善と不具合の修正とドキュメントが�
 #: ../_posts/2023-08-02-3.4.18-released.md:11
 #: ../_posts/2023-08-17-3.4.19-released.md:11
 #: ../_posts/2023-09-27-3.4.20-released.md:11
+#: ../_posts/2023-11-09-3.4.22-released.md:11
 msgid "To update to the latest RubyGems you can run:"
 msgstr "最新のRubyGemsに更新するには次を走らせてください。"
 
@@ -118,6 +122,7 @@ msgstr "最新のRubyGemsに更新するには次を走らせてください。"
 #: ../_posts/2023-08-02-3.4.18-released.md:13
 #: ../_posts/2023-08-17-3.4.19-released.md:13
 #: ../_posts/2023-09-27-3.4.20-released.md:13
+#: ../_posts/2023-11-09-3.4.22-released.md:13
 #, no-wrap
 msgid "    gem update --system\n"
 msgstr "    gem update --system\n"
@@ -136,6 +141,7 @@ msgstr "    gem update --system\n"
 #: ../_posts/2023-08-02-3.4.18-released.md:15
 #: ../_posts/2023-08-17-3.4.19-released.md:15
 #: ../_posts/2023-09-27-3.4.20-released.md:15
+#: ../_posts/2023-11-09-3.4.22-released.md:15
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
 "手作業でRubyGemsをインストールするには[RubyGemsのダウンロード][download]ペー"
@@ -155,6 +161,7 @@ msgstr ""
 #: ../_posts/2023-08-02-3.4.18-released.md:18
 #: ../_posts/2023-08-17-3.4.19-released.md:18
 #: ../_posts/2023-09-27-3.4.20-released.md:18
+#: ../_posts/2023-11-09-3.4.22-released.md:18
 msgid "_## Enhancements:_"
 msgstr "## 改善"
 
@@ -210,6 +217,7 @@ msgstr "bundler 2.4.8を既定のgemとしてインストールします。"
 #: ../_posts/2023-03-20-3.4.9-released.md:27
 #: ../_posts/2023-06-29-3.4.15-released.md:22
 #: ../_posts/2023-09-27-3.4.20-released.md:35
+#: ../_posts/2023-11-09-3.4.22-released.md:28
 msgid "_## Bug fixes:_"
 msgstr "## 不具合の修正"
 
@@ -240,6 +248,7 @@ msgstr ""
 #: ../_posts/2023-03-20-3.4.9-released.md:35
 #: ../_posts/2023-06-12-3.4.14-released.md:24
 #: ../_posts/2023-06-29-3.4.15-released.md:27
+#: ../_posts/2023-11-09-3.4.22-released.md:43
 msgid "_## Documentation:_"
 msgstr "## ドキュメント"
 
@@ -277,6 +286,7 @@ msgstr ""
 #: ../_posts/2023-08-02-3.4.18-released.md:29
 #: ../_posts/2023-08-17-3.4.19-released.md:29
 #: ../_posts/2023-09-27-3.4.20-released.md:53
+#: ../_posts/2023-11-09-3.4.22-released.md:50
 msgid "SHA256 Checksums:"
 msgstr "SHA256チェックサムは以下の通りです。"
 
@@ -325,6 +335,7 @@ msgstr "  08796d78b486ee9a01d18dfd3d7f02d42a694fb91160fe9e53ad6d8d8082e52d\n"
 #: ../_posts/2023-08-02-3.4.18-released.md:39
 #: ../_posts/2023-08-17-3.4.19-released.md:39
 #: ../_posts/2023-09-27-3.4.20-released.md:63
+#: ../_posts/2023-11-09-3.4.22-released.md:60
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr "[download]: https://rubygems.org/pages/download"
 
@@ -2806,6 +2817,7 @@ msgstr "bundler 2.4.17を既定のgemとしてインストールします。"
 #: ../_posts/2023-07-14-3.4.17-released.md:22
 #: ../_posts/2023-08-17-3.4.19-released.md:22
 #: ../_posts/2023-09-27-3.4.20-released.md:47
+#: ../_posts/2023-11-09-3.4.22-released.md:38
 msgid "_## Performance:_"
 msgstr "## 効率性の向上"
 
@@ -3810,8 +3822,10 @@ msgid ""
 "request [#6882](https://github.com/rubygems/rubygems/pull/6882)  by "
 "martinemde"
 msgstr ""
-"gemが壊れたEOFに遭遇したときに`Gem::Package::FormatError`を投げるようにしました。\n"
-"プルリクエストはmartinemdeによる[#6882](https://github.com/rubygems/rubygems/pull/6882)です。"
+"gemが壊れたEOFに遭遇したときに`Gem::Package::FormatError`を投げるようにしまし"
+"た。\n"
+"プルリクエストはmartinemdeによる[#6882](https://github.com/rubygems/rubygems/"
+"pull/6882)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:33
@@ -3820,8 +3834,10 @@ msgid ""
 "`nil`. Pull request [#6879](https://github.com/rubygems/rubygems/pull/6879) "
 "by jhong97"
 msgstr ""
-"使用許諾を`nil`に設定することで、空の使用許諾による`gem build`の警告を飛ばせるようにしました。\n"
-"プルリクエストはjhong97による[#6879](https://github.com/rubygems/rubygems/pull/6879)です。"
+"使用許諾を`nil`に設定することで、空の使用許諾による`gem build`の警告を飛ばせ"
+"るようにしました。\n"
+"プルリクエストはjhong97による[#6879](https://github.com/rubygems/rubygems/"
+"pull/6879)です。"
 
 # TODO: github-actions[bot]
 #. type: Bullet: '* '
@@ -3831,7 +3847,8 @@ msgid ""
 "github.com/rubygems/rubygems/pull/6891) by github-actions[bot]"
 msgstr ""
 "2023-06-18時点のSPDXの使用許諾の一覧に更新しました。\n"
-"プルリクエストはGitHub Actionsのボットによる[#6891](https://github.com/rubygems/rubygems/pull/6891)です。"
+"プルリクエストはGitHub Actionsのボットによる[#6891](https://github.com/"
+"rubygems/rubygems/pull/6891)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:33
@@ -3840,7 +3857,8 @@ msgid ""
 "github.com/rubygems/rubygems/pull/6642) by segiddins"
 msgstr ""
 "2023-04-28時点のSPDXの使用許諾の一覧を更新しました。\n"
-"プルリクエストはsegiddinsによる[#6642](https://github.com/rubygems/rubygems/pull/6642)です。"
+"プルリクエストはsegiddinsによる[#6642](https://github.com/rubygems/rubygems/"
+"pull/6642)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:33
@@ -3849,7 +3867,8 @@ msgid ""
 "github.com/rubygems/rubygems/pull/6310) by segiddins"
 msgstr ""
 "SPDXの使用許諾の一覧を2023-01-26時点のものに更新しました。\n"
-"プルリクエストはsegiddinsによる[#6310](https://github.com/rubygems/rubygems/pull/6310)です。"
+"プルリクエストはsegiddinsによる[#6310](https://github.com/rubygems/rubygems/"
+"pull/6310)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:33
@@ -3863,7 +3882,8 @@ msgid ""
 "[#6947](https://github.com/rubygems/rubygems/pull/6947) by negi0109"
 msgstr ""
 "シンボリックリンクディレクトリで偽陽性のSymlinkErrorを修正しました。\n"
-"プルリクエストはnegi0109による[#6947](https://github.com/rubygems/rubygems/pull/6947)です。"
+"プルリクエストはnegi0109による[#6947](https://github.com/rubygems/rubygems/"
+"pull/6947)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:45
@@ -3872,8 +3892,10 @@ msgid ""
 "not warn. Pull request [#6889](https://github.com/rubygems/rubygems/"
 "pull/6889) by segiddins"
 msgstr ""
-"古いYAMLクラス参照がある複数のgemspecの読み込みで必ず警告が出ないようにしました。\n"
-"プルリクエストはsegiddinsによる[#6889](https://github.com/rubygems/rubygems/pull/6889)です。"
+"古いYAMLクラス参照がある複数のgemspecの読み込みで必ず警告が出ないようにしまし"
+"た。\n"
+"プルリクエストはsegiddinsによる[#6889](https://github.com/rubygems/rubygems/"
+"pull/6889)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:45
@@ -3882,7 +3904,8 @@ msgid ""
 "request [#6901](https://github.com/rubygems/rubygems/pull/6901) by amatsuda"
 msgstr ""
 "`gem uni`の一覧から大きすぎる数を選んだときのNoMethodErrorを修正しました。\n"
-"プルリクエストはamatsudaによる[#6901](https://github.com/rubygems/rubygems/pull/6901)です。"
+"プルリクエストはamatsudaによる[#6901](https://github.com/rubygems/rubygems/"
+"pull/6901)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:50
@@ -3891,7 +3914,8 @@ msgid ""
 "github.com/rubygems/rubygems/pull/6972) by segiddins"
 msgstr ""
 "スタブ仕様の割り当てを低減しました。\n"
-"プルリクエストはsegiddinsによる[#6972](https://github.com/rubygems/rubygems/pull/6972)です。"
+"プルリクエストはsegiddinsによる[#6972](https://github.com/rubygems/rubygems/"
+"pull/6972)です。"
 
 #. type: Bullet: '* '
 #: ../_posts/2023-09-27-3.4.20-released.md:54
@@ -3923,3 +3947,116 @@ msgstr ""
 #, no-wrap
 msgid "  d7b158ab0ff672a780f18fa73e83dfc158384bb229cb14bf977af36fae541f50\n"
 msgstr "  d7b158ab0ff672a780f18fa73e83dfc158384bb229cb14bf977af36fae541f50\n"
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-11-09-3.4.22-released.md:1
+#, no-wrap
+msgid "3.4.22 Released"
+msgstr "3.4.22がリリースされました"
+
+#. type: Plain text
+#: ../_posts/2023-11-09-3.4.22-released.md:9
+msgid ""
+"RubyGems 3.4.22 includes enhancements, bug fixes, performance and "
+"documentation."
+msgstr "RubyGems 3.4.22には改善と不具合の修正と効率性の向上とドキュメントが含まれています。"
+
+# TODO: github-actions[bot]
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:26
+msgid ""
+"Update SPDX license list as of 2023-10-05. Pull request [#7040](https://"
+"github.com/rubygems/rubygems/pull/7040) by github-actions[bot]"
+msgstr ""
+"2023-10-05時点のSPDXの使用許諾の一覧に更新しました。\n"
+"プルリクエストはgithub-actions[bot]による[#7040](https://github.com/rubygems/rubygems/pull/7040)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:26
+msgid ""
+"Remove unnecessary rescue. Pull request [#7109](https://github.com/rubygems/"
+"rubygems/pull/7109) by deivid-rodriguez"
+msgstr ""
+"不要なrescueを削除しました。\n"
+"プルリクエストはdeivid-rodriguezによる[#7109](https://github.com/rubygems/rubygems/pull/7109)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:26
+msgid "Installs bundler 2.4.22 as a default gem."
+msgstr "bundler 2.4.22を既定のgemとしてインストールします。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:36
+msgid ""
+"Handle empty array at built-in YAML serializer. Pull request [#7099](https://"
+"github.com/rubygems/rubygems/pull/7099) by hsbt"
+msgstr ""
+"組み込みのYAML直列化器で空配列を扱えるようにしました。\n"
+"プルリクエストはhsbtによる[#7099](https://github.com/rubygems/rubygems/pull/7099)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:36
+msgid ""
+"Ignore non-tar format `.gem` files during search. Pull request [#7095]"
+"(https://github.com/rubygems/rubygems/pull/7095) by dearblue"
+msgstr ""
+"検索の際にtarでない`.gem`形式を無視するようにしました。\n"
+"プルリクエストはdearblueによる[#7095](https://github.com/rubygems/rubygems/pull/7095)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:36
+msgid ""
+"Allow explicitly uninstalling multiple versions of same gem. Pull request "
+"[#7063](https://github.com/rubygems/rubygems/pull/7063) by kstevens715"
+msgstr ""
+"同じgemの複数のバージョンを明示的にアンインストールできるようにしました。\n"
+"プルリクエストはkstevens715による[#7063](https://github.com/rubygems/rubygems/pull/7063)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:41
+msgid ""
+"Avoid regexp match on every call to `Gem::Platform.local`. Pull request "
+"[#7104](https://github.com/rubygems/rubygems/pull/7104) by segiddins"
+msgstr ""
+"`Gem::Platform.local`の呼び出しで毎回正規表現に照合することを避けるようにしました。\n"
+"プルリクエストはsegiddinsによる[#7104](https://github.com/rubygems/rubygems/pull/7104)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:47
+msgid ""
+"Get `Gem::Specification#extensions_dir` documented. Pull request [#6218]"
+"(https://github.com/rubygems/rubygems/pull/6218) by deivid-rodriguez"
+msgstr ""
+"`Gem::Specification#extensions_dir`をドキュメント化しました。\n"
+"プルリクエストはdeivid-rodriguezによる[#6218](https://github.com/rubygems/rubygems/pull/6218)です。"
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-09-3.4.22-released.md:51
+msgid "rubygems-3.4.22.tgz"
+msgstr "rubygems-3.4.22.tgz"
+
+#. type: Plain text
+#: ../_posts/2023-11-09-3.4.22-released.md:53
+#, no-wrap
+msgid ""
+"  803fa77776d11d3d1bb563826616c811124425e0331ad1fd983c4144046a6156\n"
+"* rubygems-3.4.22.zip  \n"
+msgstr ""
+"  803fa77776d11d3d1bb563826616c811124425e0331ad1fd983c4144046a6156\n"
+"* rubygems-3.4.22.zip  \n"
+
+#. type: Plain text
+#: ../_posts/2023-11-09-3.4.22-released.md:55
+#, no-wrap
+msgid ""
+"  12f52292df0572a10c4d882a2c9467babfc2909dab9685939abac2234aa8485a\n"
+"* rubygems-update-3.4.22.gem  \n"
+msgstr ""
+"  12f52292df0572a10c4d882a2c9467babfc2909dab9685939abac2234aa8485a\n"
+"* rubygems-update-3.4.22.gem  \n"
+
+#. type: Plain text
+#: ../_posts/2023-11-09-3.4.22-released.md:57
+#, no-wrap
+msgid "  dedab68acfef164f6d29257bb8d01bd6df1430ce4c0c3cf5b198aa211881d849\n"
+msgstr "  dedab68acfef164f6d29257bb8d01bd6df1430ce4c0c3cf5b198aa211881d849\n"
