@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-11-10 07:48+0900\n"
+"POT-Creation-Date: 2023-11-11 17:58+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,6 +77,7 @@ msgstr ""
 #: ../_posts/2023-09-19-august-rubygems-updates.md:1
 #: ../_posts/2023-09-27-3.4.20-released.md:1
 #: ../_posts/2023-11-09-3.4.22-released.md:1
+#: ../_posts/2023-11-10-3.3.27-released.md:1
 #, no-wrap
 msgid "post"
 msgstr ""
@@ -108,6 +109,7 @@ msgstr ""
 #: ../_posts/2023-08-17-3.4.19-released.md:11
 #: ../_posts/2023-09-27-3.4.20-released.md:11
 #: ../_posts/2023-11-09-3.4.22-released.md:11
+#: ../_posts/2023-11-10-3.3.27-released.md:11
 #, markdown-text
 msgid "To update to the latest RubyGems you can run:"
 msgstr ""
@@ -127,6 +129,7 @@ msgstr ""
 #: ../_posts/2023-08-17-3.4.19-released.md:13
 #: ../_posts/2023-09-27-3.4.20-released.md:13
 #: ../_posts/2023-11-09-3.4.22-released.md:13
+#: ../_posts/2023-11-10-3.3.27-released.md:13
 #, markdown-text, no-wrap
 msgid "    gem update --system\n"
 msgstr ""
@@ -146,6 +149,7 @@ msgstr ""
 #: ../_posts/2023-08-17-3.4.19-released.md:15
 #: ../_posts/2023-09-27-3.4.20-released.md:15
 #: ../_posts/2023-11-09-3.4.22-released.md:15
+#: ../_posts/2023-11-10-3.3.27-released.md:15
 #, markdown-text
 msgid "To install RubyGems by hand see the [Download RubyGems][download] page."
 msgstr ""
@@ -214,6 +218,7 @@ msgstr ""
 #: ../_posts/2023-06-29-3.4.15-released.md:22
 #: ../_posts/2023-09-27-3.4.20-released.md:35
 #: ../_posts/2023-11-09-3.4.22-released.md:28
+#: ../_posts/2023-11-10-3.3.27-released.md:18
 #, markdown-text
 msgid "_## Bug fixes:_"
 msgstr ""
@@ -276,6 +281,7 @@ msgstr ""
 #: ../_posts/2023-08-17-3.4.19-released.md:29
 #: ../_posts/2023-09-27-3.4.20-released.md:53
 #: ../_posts/2023-11-09-3.4.22-released.md:50
+#: ../_posts/2023-11-10-3.3.27-released.md:24
 #, markdown-text
 msgid "SHA256 Checksums:"
 msgstr ""
@@ -323,6 +329,7 @@ msgstr ""
 #: ../_posts/2023-08-17-3.4.19-released.md:39
 #: ../_posts/2023-09-27-3.4.20-released.md:63
 #: ../_posts/2023-11-09-3.4.22-released.md:60
+#: ../_posts/2023-11-10-3.3.27-released.md:34
 #, markdown-text
 msgid "[download]: https://rubygems.org/pages/download"
 msgstr ""
@@ -3704,4 +3711,64 @@ msgstr ""
 #: ../_posts/2023-11-09-3.4.22-released.md:57
 #, markdown-text, no-wrap
 msgid "  dedab68acfef164f6d29257bb8d01bd6df1430ce4c0c3cf5b198aa211881d849\n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: author
+#: ../_posts/2023-11-10-3.3.27-released.md:1
+#, no-wrap
+msgid "Hiroshi SHIBATA"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: author_email
+#: ../_posts/2023-11-10-3.3.27-released.md:1
+#, no-wrap
+msgid "hsbt@ruby-lang.org"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-11-10-3.3.27-released.md:1
+#, no-wrap
+msgid "3.3.27 Released"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-10-3.3.27-released.md:9
+#, markdown-text
+msgid "RubyGems 3.3.27 includes bug fixes."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-10-3.3.27-released.md:21
+#, markdown-text
+msgid ""
+"Provide fix for bundler Gemfile resolving regression. Pull request #6717 by "
+"Hiroshi SHIBATA."
+msgstr ""
+
+#. type: Bullet: '* '
+#: ../_posts/2023-11-10-3.3.27-released.md:25
+#, markdown-text
+msgid "rubygems-3.3.27.tgz"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-10-3.3.27-released.md:27
+#, markdown-text, no-wrap
+msgid ""
+"  dc821bf2a416e9c25a964181a83439209b3ae81cfca1632733ca04da946c0fbd\n"
+"* rubygems-3.3.27.zip  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-10-3.3.27-released.md:29
+#, markdown-text, no-wrap
+msgid ""
+"  11e5cdbb347c0540d28723814b8ea84deb7151f8de1cddbe48a1466a13d0db60\n"
+"* rubygems-update-3.3.27.gem  \n"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-10-3.3.27-released.md:30
+#, markdown-text, no-wrap
+msgid "  46cc13e192feb17fb74ce4cdd354154450533ab2844af842381c2d99c5cd45cb  \n"
 msgstr ""
