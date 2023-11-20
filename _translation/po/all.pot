@@ -7,7 +7,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"POT-Creation-Date: 2023-11-11 17:58+0900\n"
+"POT-Creation-Date: 2023-11-26 13:06+0900\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -78,6 +78,8 @@ msgstr ""
 #: ../_posts/2023-09-27-3.4.20-released.md:1
 #: ../_posts/2023-11-09-3.4.22-released.md:1
 #: ../_posts/2023-11-10-3.3.27-released.md:1
+#: ../_posts/2023-10-17-september-rubygems-updates.md:1
+#: ../_posts/2023-11-24-october-rubygems-updates.md:1
 #, no-wrap
 msgid "post"
 msgstr ""
@@ -342,6 +344,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #: ../_posts/2023-08-11-july-rubygems-updates.md:1
 #: ../_posts/2023-09-19-august-rubygems-updates.md:1
+#: ../_posts/2023-10-17-september-rubygems-updates.md:1
+#: ../_posts/2023-11-24-october-rubygems-updates.md:1
 #, no-wrap
 msgid "Gift Egwuenu"
 msgstr ""
@@ -354,6 +358,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:1
 #: ../_posts/2023-08-11-july-rubygems-updates.md:1
 #: ../_posts/2023-09-19-august-rubygems-updates.md:1
+#: ../_posts/2023-10-17-september-rubygems-updates.md:1
+#: ../_posts/2023-11-24-october-rubygems-updates.md:1
 #, no-wrap
 msgid "laurandidi21@gmail.com"
 msgstr ""
@@ -382,6 +388,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:10
 #: ../_posts/2023-08-11-july-rubygems-updates.md:10
 #: ../_posts/2023-09-19-august-rubygems-updates.md:10
+#: ../_posts/2023-10-17-september-rubygems-updates.md:10
+#: ../_posts/2023-11-24-october-rubygems-updates.md:10
 #, markdown-text, no-wrap
 msgid "RubyGems News"
 msgstr ""
@@ -518,6 +526,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:27
 #: ../_posts/2023-08-11-july-rubygems-updates.md:27
 #: ../_posts/2023-09-19-august-rubygems-updates.md:27
+#: ../_posts/2023-10-17-september-rubygems-updates.md:29
+#: ../_posts/2023-11-24-october-rubygems-updates.md:28
 #, markdown-text, no-wrap
 msgid "RubyGems.org News"
 msgstr ""
@@ -684,6 +694,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:43
 #: ../_posts/2023-08-11-july-rubygems-updates.md:47
 #: ../_posts/2023-09-19-august-rubygems-updates.md:42
+#: ../_posts/2023-10-17-september-rubygems-updates.md:48
+#: ../_posts/2023-11-24-october-rubygems-updates.md:41
 #, markdown-text, no-wrap
 msgid "Thank you"
 msgstr ""
@@ -696,6 +708,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:46
 #: ../_posts/2023-08-11-july-rubygems-updates.md:50
 #: ../_posts/2023-09-19-august-rubygems-updates.md:45
+#: ../_posts/2023-10-17-september-rubygems-updates.md:51
+#: ../_posts/2023-11-24-october-rubygems-updates.md:44
 #, markdown-text
 msgid ""
 "Thank you to all the contributors of RubyGems and RubyGems.org for this "
@@ -711,6 +725,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:47
 #: ../_posts/2023-08-11-july-rubygems-updates.md:51
 #: ../_posts/2023-09-19-august-rubygems-updates.md:46
+#: ../_posts/2023-10-17-september-rubygems-updates.md:52
+#: ../_posts/2023-11-24-october-rubygems-updates.md:45
 #, markdown-text, no-wrap
 msgid "Contributors to RubyGems:"
 msgstr ""
@@ -729,6 +745,10 @@ msgstr ""
 #: ../_posts/2023-08-11-july-rubygems-updates.md:64
 #: ../_posts/2023-08-11-july-rubygems-updates.md:82
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-10-17-september-rubygems-updates.md:74
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@simi](https://github.com/simi) Josef Šimánek"
 msgstr ""
@@ -740,6 +760,9 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:83
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@martinemde](https://github.com/martinemde) Martin Emde"
 msgstr ""
@@ -758,6 +781,10 @@ msgstr ""
 #: ../_posts/2023-08-11-july-rubygems-updates.md:82
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-10-17-september-rubygems-updates.md:74
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@hsbt](https://github.com/hsbt) Hiroshi SHIBATA"
 msgstr ""
@@ -770,6 +797,9 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:60
 #: ../_posts/2023-08-11-july-rubygems-updates.md:64
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@deivid-rodriguez](https://github.com/deivid-rodriguez) David Rodríguez"
 msgstr ""
@@ -782,6 +812,7 @@ msgstr ""
 #: ../_posts/2023-08-11-july-rubygems-updates.md:64
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@nobu](https://github.com/nobu) Nobuyoshi Nakada"
 msgstr ""
@@ -802,6 +833,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@composerinteralia](https://github.com/composerinteralia) Daniel Colson"
 msgstr ""
@@ -827,6 +859,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: ../_posts/2023-03-11-february-rubygems-updates.md:86
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@mercedesb](https://github.com/mercedesb) Mercedes"
 msgstr ""
@@ -842,6 +875,10 @@ msgstr ""
 #: ../_posts/2023-08-11-july-rubygems-updates.md:82
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-10-17-september-rubygems-updates.md:74
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@segiddins](https://github.com/segiddins) Samuel Giddins"
 msgstr ""
@@ -856,6 +893,9 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:72
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-10-17-september-rubygems-updates.md:74
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@indirect](https://github.com/indirect) André Arko"
 msgstr ""
@@ -872,6 +912,8 @@ msgstr ""
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
 #: ../_posts/2023-07-17-june-rubygems-updates.md:60
 #: ../_posts/2023-09-19-august-rubygems-updates.md:79
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@duckinator](https://github.com/duckinator) Ellen Marie Dash"
 msgstr ""
@@ -884,6 +926,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:61
 #: ../_posts/2023-08-11-july-rubygems-updates.md:66
 #: ../_posts/2023-09-19-august-rubygems-updates.md:61
+#: ../_posts/2023-10-17-september-rubygems-updates.md:68
+#: ../_posts/2023-11-24-october-rubygems-updates.md:71
 #, markdown-text, no-wrap
 msgid "Contributors to RubyGems.org:"
 msgstr ""
@@ -933,6 +977,7 @@ msgstr ""
 #: ../_posts/2023-03-11-february-rubygems-updates.md:101
 #: ../_posts/2023-04-18-march-rubygems-updates.md:83
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@arunagw](https://github.com/arunagw) Arun Agrawal"
 msgstr ""
@@ -950,6 +995,7 @@ msgstr ""
 #: ../_posts/2023-03-11-february-rubygems-updates.md:101
 #: ../_posts/2023-05-17-april-rubygems-updates.md:87
 #: ../_posts/2023-06-19-may-rubygems-updates.md:65
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
 #, markdown-text
 msgid "[@javier-menendez](https://github.com/javier-menendez) Javier Menéndez Rizo"
 msgstr ""
@@ -962,6 +1008,8 @@ msgstr ""
 #: ../_posts/2023-07-17-june-rubygems-updates.md:74
 #: ../_posts/2023-08-11-july-rubygems-updates.md:84
 #: ../_posts/2023-09-19-august-rubygems-updates.md:81
+#: ../_posts/2023-10-17-september-rubygems-updates.md:76
+#: ../_posts/2023-11-24-october-rubygems-updates.md:87
 #, markdown-text
 msgid ""
 "Learn more about contributing to RubyGems by visiting the RubyGems "
@@ -1861,6 +1909,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: ../_posts/2023-04-18-march-rubygems-updates.md:68
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@voxik](https://github.com/voxik) Vít Ondruch"
 msgstr ""
@@ -2953,6 +3002,8 @@ msgstr ""
 #. type: Plain text
 #: ../_posts/2023-08-11-july-rubygems-updates.md:17
 #: ../_posts/2023-09-19-august-rubygems-updates.md:17
+#: ../_posts/2023-10-17-september-rubygems-updates.md:18
+#: ../_posts/2023-10-17-september-rubygems-updates.md:36
 #, markdown-text
 msgid ""
 "Some other improvements that landed into our repo this month but that are "
@@ -3428,6 +3479,7 @@ msgstr ""
 
 #. type: Bullet: '- '
 #: ../_posts/2023-09-19-august-rubygems-updates.md:60
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
 #, markdown-text
 msgid "[@manuraj17](https://github.com/manuraj17) Manu"
 msgstr ""
@@ -3771,4 +3823,536 @@ msgstr ""
 #: ../_posts/2023-11-10-3.3.27-released.md:30
 #, markdown-text, no-wrap
 msgid "  46cc13e192feb17fb74ce4cdd354154450533ab2844af842381c2d99c5cd45cb  \n"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-10-17-september-rubygems-updates.md:1
+#, no-wrap
+msgid "September 2023 RubyGems Updates"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:9
+#, markdown-text
+msgid ""
+"Welcome to the RubyGems monthly update! As part of our efforts at Ruby "
+"Central, we publish a recap of the work that we’ve done the previous "
+"month. Read on to find out what updates were made to RubyGems and "
+"RubyGems.org in September."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:12
+#, markdown-text
+msgid ""
+"This month in RubyGems, we released RubyGems "
+"[3.4.20](https://github.com/rubygems/rubygems/blob/master/CHANGELOG.md#3420--2023-09-27) "
+"and Bundler "
+"[2.4.20](https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#2420-september-27-2023)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:14
+#, markdown-text
+msgid ""
+"One of the goals of this RubyGems release was to work on allowing RubyGems "
+"to gracefully fall back to a user install if the default `gem home` isn't "
+"writable. This will resolve a request users of RubyGems have been wanting "
+"for eight years - "
+"[#5327](https://github.com/rubygems/rubygems/pull/5327). Additionally, we "
+"sought to update the SPDX license list from 2023-04-28, 2023-06-18, to "
+"2023-01-26, raised `Gem::Package::FormatError` when gem encounters corrupt "
+"EOF [#6882](https://github.com/rubygems/rubygems/pull/6882), and ensure that "
+"loading multiple gemspecs with legacy YAML class references does not warn "
+"[#6889](https://github.com/rubygems/rubygems/pull/6889)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:16
+#, markdown-text
+msgid ""
+"In this month's Bundler release, our goal was to build on the work of "
+"[@segiddins](https://github.com/segiddins) and "
+"[@mercedesb](https://github.com/mercedesb), by adding support for `SHA256` "
+"checksum verification of Bundled gems during installation, as described in "
+"this [RFC](https://github.com/rubygems/rfcs/pull/50). We also focused on "
+"Bundler’s performance and memory efficiency; supporting, reviewing, and "
+"contributing to improvements there."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"added `universal-java-19` to CI test setup Gemfile locks - "
+"[#6942](https://github.com/rubygems/rubygems/pull/6942)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"fixed a false positive SymlinkError in the symbolic link directory - "
+"[#6947](https://github.com/rubygems/rubygems/pull/6947)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"added support for the `ruby-3.2.2` format in the `ruby file:` Gemfile "
+"directive, and added a test to explicitly test the `3.2.2@gemset` format as "
+"rejected - [#6954](https://github.com/rubygems/rubygems/pull/6954)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"reduced allocations for stub specifications - "
+"[#6972](https://github.com/rubygems/rubygems/pull/6972)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"allowed standalone mode to work on a Windows edge case - "
+"[#6989](https://github.com/rubygems/rubygems/pull/6989)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"improved release scripts - "
+"[#6999](https://github.com/rubygems/rubygems/pull/6999)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:26
+#, markdown-text
+msgid ""
+"fixed the SafeMarshal test on jruby - "
+"[#6984](https://github.com/rubygems/rubygems/pull/6984)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:28
+#, markdown-text
+msgid ""
+"In September, RubyGems gained [116 new "
+"commits](https://github.com/rubygems/rubygems/compare/master@%7B2023-09-01%7D...master@%7B2023-09-30%7D) "
+"contributed by 14 authors. There were 2,455 additions and 571 deletions "
+"across 105 files."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:32
+#, markdown-text
+msgid ""
+"This month in RubyGems.org, we improved how [gravatar exposed user "
+"email](https://github.com/rubygems/rubygems.org/issues/3278) by ensuring "
+"they are not publicly exposed - "
+"[#3731](https://github.com/rubygems/rubygems.org/pull/3731), "
+"[#4104](https://github.com/rubygems/rubygems.org/pull/4104). We added this "
+"change to keep our users' information private and well secured. We also "
+"opened an [RFC](https://github.com/rubygems/rfcs/pull/51) to enhance user "
+"profile in general."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:34
+#, markdown-text
+msgid ""
+"Support for PostgreSQL 11 version will end next February, so we have created "
+"a plan, wrote reference scripts and started documenting the upgrade in the "
+"following RFCs to get feedback - "
+"[#52](https://github.com/rubygems/rfcs/pull/52 ), "
+"[#53](https://github.com/rubygems/rfcs/pull/53)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"added a log in Pusher when notify is called - "
+"[#4072](https://github.com/rubygems/rubygems.org/pull/4072)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"added a versions index on `lower(gem_full_name)` - "
+"[#4095](https://github.com/rubygems/rubygems.org/pull/4095)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"added backfill for `spec_sha256` on versions - "
+"[#4083](https://github.com/rubygems/rubygems.org/pull/4083)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"handled nil `api_key` in the dashboards controller "
+"-[#4081](https://github.com/rubygems/rubygems.org/pull/4081)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"added a fix to precompile assets on CI before running tests - "
+"[#4059](https://github.com/rubygems/rubygems.org/pull/4059)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"made all texts in the about page translatable. - "
+"[#4063](https://github.com/rubygems/rubygems.org/pull/4063)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"made an update to only validate version metadata on create/change - "
+"[#4100](https://github.com/rubygems/rubygems.org/pull/4100)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:45
+#, markdown-text
+msgid ""
+"updated RubyGems & Bundler - "
+"[#4103](https://github.com/rubygems/rubygems.org/pull/4103)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-10-17-september-rubygems-updates.md:47
+#, markdown-text
+msgid ""
+"In September, RubyGems.org gained [64 new "
+"commits](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-09-01%7D...master@%7B2023-09-30%7D) "
+"contributed by 5 authors. There were 1,855 additions and 1,070 deletions "
+"across 90 files."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@negi0109](https://github.com/negi0109) negi"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@pboling](https://github.com/pboling) Peter Boling"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@ytkg](https://github.com/ytkg) YOSHIKI"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@krororo](https://github.com/krororo) kitazawa"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@yaauie](https://github.com/yaauie) Ry Biesemeyer"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-10-17-september-rubygems-updates.md:67
+#, markdown-text
+msgid "[@byroot](https://github.com/byroot) Jean Boussier"
+msgstr ""
+
+#. type: Yaml Front Matter Hash Value: title
+#: ../_posts/2023-11-24-october-rubygems-updates.md:1
+#, no-wrap
+msgid "October 2023 RubyGems Updates"
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:9
+#, markdown-text
+msgid ""
+"Welcome to the RubyGems monthly update! As part of our efforts at Ruby "
+"Central, we publish a recap of the work that we’ve done the previous "
+"month. Read on to find out what updates were made to RubyGems and "
+"RubyGems.org in October."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:12
+#, markdown-text
+msgid ""
+"This month in RubyGems, we released RubyGems "
+"[3.4.21](https://github.com/rubygems/rubygems/blob/master/CHANGELOG.md#3421--2023-10-17) "
+"and Bundler "
+"[2.4.21](https://github.com/rubygems/rubygems/blob/master/bundler/CHANGELOG.md#2421-october-17-2023)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:14
+#, markdown-text
+msgid ""
+"A couple of noteworthy updates this month include the introduction of a "
+"feature to abort `setup.rb` for outdated Ruby versions - "
+"[#7011](https://github.com/rubygems/rubygems/pull/7011), and efficiency "
+"enhancements enabled by removing `Dir.chdir` from subprocess execution - "
+"[#6930](https://github.com/rubygems/rubygems/pull/6930). We also achieved a "
+"major configuration improvement by implementing a `pure-ruby` YAML parser "
+"-[#6615](https://github.com/rubygems/rubygems/pull/6615). The documentation "
+"also saw significant improvements, with updates to the `bindir` variable - "
+"[#7028](https://github.com/rubygems/rubygems/pull/7028) and fixes to invalid "
+"links - [#7008](https://github.com/rubygems/rubygems/pull/7008)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:17
+#, markdown-text
+msgid ""
+"Some other improvements that landed into our repo this month that are NOT "
+"included in the above releases are:"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"an enhanced continuous integration (CI) by incorporating the latest patch "
+"level releases of Ruby, ensuring more robust testing environments - "
+"[#7036](https://github.com/rubygems/rubygems/pull/7036)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"updates to the SPDX license list to reflect the latest standards as of "
+"October 5, 2023. This ensures compliance and accuracy in licensing - "
+"[#7040](https://github.com/rubygems/rubygems/pull/7040)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"improved formatting and presentation of global source information on the "
+"`bundle plugin` manual page, contributing to better usability and "
+"readability - [#7045](https://github.com/rubygems/rubygems/pull/7045)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"significant optimization by reusing the `Gem::RemoteFetcher` instance within "
+"Bundler - [#7079](https://github.com/rubygems/rubygems/pull/7079)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"modified, more relaxed, pattern matching for Rake versions, allowing for "
+"greater flexibility and compatibility in different environments - "
+"[#7123](https://github.com/rubygems/rubygems/pull/7123)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"refinements to the recent fix related to `force_ruby_platform` - "
+"[#7115](https://github.com/rubygems/rubygems/pull/7115)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:25
+#, markdown-text
+msgid ""
+"a merged pull request to enable automatic switching to user-level gem "
+"installations when `GEM_HOME` is unset and the default gem home is not "
+"writable - [#5327](https://github.com/rubygems/rubygems/pull/5327)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:27
+#, markdown-text
+msgid ""
+"In October, RubyGems gained [160 new "
+"commits](https://github.com/rubygems/rubygems/compare/master@%7B2023-10-01%7D...master@%7B2023-10-31%7D) "
+"contributed by 22 authors. There were 3,940 additions and 1,149 deletions "
+"across 197 files."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:31
+#, markdown-text
+msgid ""
+"The updates to RubyGems.org this month reflect a strong commitment to "
+"improving user experience, enhancing security, and modernizing the "
+"platform. Here's a brief overview of the key improvements in the release:"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:37
+#, markdown-text
+msgid ""
+"implementing a fix for the subscription links on the RubyGems dashboard - "
+"[#4111](https://github.com/rubygems/rubygems.org/pull/4111)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:37
+#, markdown-text
+msgid ""
+"creating a proof-of-concept (POC) for integrating Tailwind CSS, aiming to "
+"modernize and enhance the frontend design and responsiveness of RubyGems - "
+"[#4113](https://github.com/rubygems/rubygems.org/pull/4113)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:37
+#, markdown-text
+msgid ""
+"resolving ambiguity in ownership uniqueness errors, specifically addressing "
+"scenarios where a user is already invited or is an owner - "
+"[#4119](https://github.com/rubygems/rubygems.org/pull/4119)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:37
+#, markdown-text
+msgid ""
+"addressing a critical issue where users who had pushed gems with associated "
+"API keys faced difficulties with account deletion. This fix ensures smoother "
+"user account management and security - "
+"[#4130](https://github.com/rubygems/rubygems.org/pull/4130)."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:37
+#, markdown-text
+msgid ""
+"fixing timestamp fields options feature, refining user interface elements "
+"and data accuracy - "
+"[#4132](https://github.com/rubygems/rubygems.org/pull/4132)."
+msgstr ""
+
+#. type: Plain text
+#: ../_posts/2023-11-24-october-rubygems-updates.md:40
+#, markdown-text
+msgid ""
+"In October, RubyGems.org gained [60 new "
+"commits](https://github.com/rubygems/rubygems.org/compare/master@%7B2023-10-01%7D...master@%7B2023-10-31%7D) "
+"contributed by 12 authors. There were 4,532 additions and 2,184 deletions "
+"across 181 files."
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@mgmarlow](https://github.com/mgmarlow) Graham Marlow"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@harshalbhakta](https://github.com/harshalbhakta) Harshal Bhakta"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@intrip](https://github.com/intrip) Jacopo Beschi"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@ccutrer](https://github.com/ccutrer) Cody Cutrer"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@kstevens715](https://github.com/kstevens715) Kyle Stevens"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@dearblue](https://github.com/dearblue) dearblue"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@eregon](https://github.com/eregon) Benoit Daloze"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@ekohl](https://github.com/ekohl) Ewoud Kohl van Wijngaarden"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@rye-stripe](https://github.com/rye-stripe) Peteris Rudzusiks"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@kenyon](https://github.com/kenyon) Kenyon Ralph"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:69
+#, markdown-text
+msgid "[@jeremy](https://github.com/jeremy) Jeremy Daer"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
+#, markdown-text
+msgid "[@jjb](https://github.com/jjb) John Bachir"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
+#, markdown-text
+msgid "[@Uda-Titor](https://github.com/Uda-Titor) ryohei udagawa"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
+#, markdown-text
+msgid "[@arletterocks](https://github.com/arletterocks) Arlette Thibodeau"
+msgstr ""
+
+#. type: Bullet: '- '
+#: ../_posts/2023-11-24-october-rubygems-updates.md:85
+#, markdown-text
+msgid "[@xuanxu](https://github.com/xuanxu) Juanjo Bazán"
 msgstr ""
